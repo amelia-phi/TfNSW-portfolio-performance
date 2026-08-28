@@ -49,7 +49,10 @@ def load_transport_sheet(sheet_name, lifecycle):
     # Keep only Transport records
     data = data[data["Sector"] == "Transport"].copy()
 
-    # Record the source lifecycle
+    # Remove columns that became empty after filtering
+    data = data.dropna(axis=1, how="all")
+
+    # Record which source sheet the row came from
     data["Source Lifecycle"] = lifecycle
 
     return data
