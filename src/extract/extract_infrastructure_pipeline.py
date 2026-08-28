@@ -13,13 +13,21 @@ INPUT_FILE = (
     / "Pipeline-28-08-2026.xlsx"
 )
 
+INTERIM_OUTPUT_FILE = (
+    PROJECT_ROOT
+    / "data"
+    / "interim"
+    / "infrastructure_pipeline_transport_raw.csv"
+)
+
+
 def load_transport_sheet(sheet_name, lifecycle):
     data = pd.read_excel(
         INPUT_FILE,
         sheet_name=sheet_name,
         header=1,
     )
-    
+
     # Remove spaces from column names
     data.columns = data.columns.str.strip()
 
@@ -28,6 +36,7 @@ def load_transport_sheet(sheet_name, lifecycle):
 
     # Clean text columns
     text_columns = data.select_dtypes(include=["object"]).columns
+
     for column in text_columns:
         data[column] = data[column].str.strip()
 
@@ -44,6 +53,7 @@ def load_transport_sheet(sheet_name, lifecycle):
     data["Source Lifecycle"] = lifecycle
 
     return data
+
 
 def main():
     pipeline = load_transport_sheet(
@@ -66,10 +76,25 @@ def main():
     )
 
     print("Combined Transport records:", len(combined))
+
     print("\nColumns:")
-    
+
     for column in combined.columns:
         print("-", column)
+
+    INTERIM_OUTPUT_FILE.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    combined.to_csv(
+        INTERIM_OUTPUT_FILE,
+        index=False,
+    )
+
+    print("\nFile created:")
+    print(INTERIM_OUTPUT_FILE)
+
 
 if __name__ == "__main__":
     main()
