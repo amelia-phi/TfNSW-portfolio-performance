@@ -1,0 +1,2 @@
+rule_id,project_name,records_found,issue,resolution,validation_evidence
+DQ001,Parramatta Light Rail Stage 2 Main Works,2,Project appears in both Pipeline and In Planning,"Retained the Pipeline record because it contains the more complete phase, procurement and timeline information",Infrastructure NSW live In Planning search returned no matching project on 2026-08-29
