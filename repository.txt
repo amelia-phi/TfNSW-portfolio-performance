@@ -1,0 +1,36 @@
+.
+├── data/                                             # Source and generated datasets organised by pipeline stage
+│   ├── raw/                                          # Immutable copies of public source files
+│   ├── interim/                                      # Extracted and partially cleaned datasets
+│   └── processed/                                    # Validated analysis-ready datasets
+├── documentation/                                    # Data dictionaries, methodology and validation rules
+├── notebooks/                                        # Exploratory analysis and development notebooks
+├── outputs/                                          # Generated analytical and data-quality outputs
+│   ├── charts/                                       # Generated portfolio visualisations
+│   ├── tables/                                       # Generated analytical summary tables
+│   └── validation/                                   # Data-quality and exception logs
+├── reports/                                          # Methodology and performance briefing deliverables
+├── scripts/                                          # Repository maintenance and documentation utilities
+│   └── update_repository_tree.py                     # Regenerates repository.txt and its README link
+├── src/                                              # Production extraction, transformation and validation code
+│   ├── extract/                                      # Source-specific Excel and PDF extraction pipelines
+│   │   ├── infrastructure_pipeline/                  # Infrastructure NSW workbook extraction package
+│   │   ├── tfnsw_project_pipeline/                   # TfNSW PDF text, shape and colour extraction package
+│   │   ├── extract_infrastructure_pipeline.py        # Infrastructure workbook extraction entry point
+│   │   └── extract_tfnsw_project_pipeline.py         # TfNSW project-pipeline extraction entry point
+│   ├── transform/                                    # Business rules and analysis-ready dataset construction
+│   │   ├── project_register/                         # Project-register transformation package
+│   │   ├── tfnsw_timeline/                           # Project timeline transformation package
+│   │   ├── transform_project_register.py             # Project-register transformation entry point
+│   │   └── transform_tfnsw_project_timeline.py       # Project-timeline transformation entry point
+│   ├── build_dataset/                                # Cross-source dataset integration
+│   └── validate/                                     # Cross-dataset assurance checks
+├── tableau/                                          # Tableau extracts and workbook assets
+│   ├── extracts/                                     # Tableau-ready data extracts
+│   └── workbook/                                     # Tableau workbook files
+├── tests/                                            # Automated unit and integration tests
+├── .gitignore                                        # Files and directories excluded from version control
+├── LICENSE                                           # Repository usage and distribution licence
+├── requirements.txt                                  # Python runtime dependencies
+├── repository.txt                                    # Generated annotated repository structure
+└── README.md                                         # Project overview, architecture and usage guide
