@@ -48,13 +48,14 @@ def run_pipeline() -> pd.DataFrame:
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     project_timeline.to_csv(OUTPUT_FILE, index=False)
 
-    print("Project groups:", len(project_groups))
+    """ print("Project groups:", len(project_groups))
     print("Project rows:", len(project_rows))
     print("Cleaned shapes:", len(cleaned_shapes))
     print("Matched shapes:", len(matched_shapes))
     print("Final timeline segments:", len(project_timeline))
     print("Projects represented:", project_timeline["tfnsw_project_id"].nunique())
     print("\nValidation passed.")
-    print("\nFile created:")
+    print("\nFile created:") """
+    
     print(OUTPUT_FILE)
     return project_timeline
