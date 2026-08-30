@@ -71,3 +71,18 @@ EXPECTED_PAGE_HEADERS = {
 
 
 MINIMUM_TEXT_CHARACTERS = 100
+
+EXTRACTED_WORD_COLUMNS = [
+    "budget_year",
+    "government_sector",
+    "source_file",
+    "page_number",
+    "page_width",
+    "page_height",
+    "word_order",
+    "text",
+    "x0",
+    "x1",
+    "top",
+    "bottom",
+]
