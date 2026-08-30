@@ -64,6 +64,44 @@ def validate_output(data: pd.DataFrame) -> None:
         if data[column].dropna().lt(0).any():
             raise ValueError(f"Negative values found in {column}.")
 
+    for period_column, year_column, disclosed_column in (
+        ("start_period", "start_year", "start_disclosed"),
+        (
+            "completion_period",
+            "completion_year",
+            "completion_disclosed",
+        ),
+    ):
+        missing_period = (
+            data[period_column].isna()
+            | data[period_column].astype(str).str.casefold().eq("n.a.")
+        )
+        disclosure_mismatch = missing_period.eq(
+            data[disclosed_column]
+        )
+        if disclosure_mismatch.any():
+            raise ValueError(
+                f"Disclosure flags do not agree with {period_column}."
+            )
+
+        numeric_period = data[period_column].astype(str).str.fullmatch(
+            r"\d{4}"
+        )
+        parsed_year = pd.to_numeric(
+            data[year_column],
+            errors="coerce",
+        )
+        inconsistent_year = numeric_period & (
+            parsed_year != pd.to_numeric(
+                data.loc[numeric_period, period_column],
+                errors="coerce",
+            ).reindex(data.index)
+        )
+        if inconsistent_year.any():
+            raise ValueError(
+                f"Parsed years do not agree with {period_column}."
+            )
+
 
 def _parse_total_value(value: object) -> int:
     """Convert a published total allocation from $000 text."""

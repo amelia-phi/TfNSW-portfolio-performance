@@ -46,7 +46,7 @@ def _parse_money(value: object) -> tuple[int | None, bool]:
 def _parse_year(value: object) -> tuple[int | None, bool]:
     """Return an integer year when the published period is a single year."""
 
-    text = _clean_text(value)
+    text = _normalise_period(value)
 
     if text is None or text.casefold() == "n.a.":
         return None, False
@@ -55,6 +55,25 @@ def _parse_year(value: object) -> tuple[int | None, bool]:
         return int(text), True
 
     return None, True
+
+
+def _normalise_period(value: object) -> str | None:
+    """Normalise spacing artefacts in years and n.a. markers."""
+
+    text = _clean_text(value)
+    if text is None:
+        return None
+
+    compact = re.sub(r"\s+", "", text)
+
+    if re.fullmatch(r"n\.a\.", compact, flags=re.IGNORECASE):
+        return "n.a."
+    if re.fullmatch(r"\d{4}", compact):
+        return compact
+    if compact.casefold() == "tbc":
+        return "TBC"
+
+    return text
 
 
 def _normalise_project_name(project_name: str) -> str:
@@ -91,6 +110,13 @@ def transform_projects(project_rows: pd.DataFrame) -> pd.DataFrame:
     ]
     for column in text_columns:
         transformed[column] = transformed[column].map(_clean_text)
+
+    transformed["start_period"] = transformed["start_period"].map(
+        _normalise_period
+    )
+    transformed["completion_period"] = transformed[
+        "completion_period"
+    ].map(_normalise_period)
 
     transformed["agency_group"] = transformed["agency"].map(
         AGENCY_GROUPS
