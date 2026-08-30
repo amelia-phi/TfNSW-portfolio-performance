@@ -50,12 +50,21 @@ def validate_file(
         for section_name, page_numbers in (
             transport_sections.items()
         ):
+            if not page_numbers:
+                raise ValueError(
+                    f"No pages configured for "
+                    f"{budget_year} {section_name}."
+                )
+
             for page_number in page_numbers:
-                if page_number > total_pages:
+                if (
+                    page_number < 1
+                    or page_number > total_pages
+                ):
                     raise ValueError(
                         f"Page {page_number} does not exist "
-                        f"in {file_path.name}. The PDF only "
-                        f"has {total_pages} pages."
+                        f"in {file_path.name}. The PDF has "
+                        f"{total_pages} pages."
                     )
 
                 # Human page 1 is Python position 0.
@@ -64,7 +73,10 @@ def validate_file(
                 # extract_text() can return None.
                 text = page.extract_text() or ""
 
-                if len(text.strip()) < MINIMUM_TEXT_CHARACTERS:
+                if (
+                    len(text.strip())
+                    < MINIMUM_TEXT_CHARACTERS
+                ):
                     raise ValueError(
                         f"{budget_year} {section_name} "
                         f"page {page_number} contains "
@@ -86,3 +98,41 @@ def validate_file(
                         f"page {page_number} is missing: "
                         f"{', '.join(sorted(missing_headers))}"
                     )
+
+
+def validate_sources() -> None:
+    """Validate all configured Budget Paper sources."""
+
+    if not BUDGET_SOURCES:
+        raise ValueError(
+            "No Budget Paper sources are configured."
+        )
+
+    for budget_year, source_config in (
+        BUDGET_SOURCES.items()
+    ):
+        file_path = source_config["file_path"]
+
+        validate_file(
+            budget_year=budget_year,
+            file_path=file_path,
+        )
+
+        print(
+            f"Passed: {budget_year} "
+            f"({file_path.name})"
+        )
+
+    print(
+        "\nAll Budget Paper sources passed validation."
+    )
+
+
+def main() -> None:
+    """Run validation without starting extraction."""
+
+    validate_sources()
+
+
+if __name__ == "__main__":
+    main()
