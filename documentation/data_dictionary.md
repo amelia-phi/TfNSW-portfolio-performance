@@ -33,7 +33,7 @@ Fields relating to current phase, procurement strategy and delivery periods
 are not published for projects in the `In Planning` category. These values
 are therefore blank and should not be interpreted as zero or not applicable.
 
-## Field Definitions
+### Field Definitions
 
 | Field | Type | Description | Source or derived | Nulls allowed |
 |---|---|---|---|---|
