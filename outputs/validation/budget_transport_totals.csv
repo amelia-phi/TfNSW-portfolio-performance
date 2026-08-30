@@ -1,0 +1,72 @@
+row_type,budget_year,government_sector,agency,work_category,delivery_status,program_group,project_name,location,start_period,completion_period,estimated_total_cost_000_raw,estimated_expenditure_000_raw,annual_allocation_000_raw,source_file,source_page,source_row_top
+total,2024-25,general_government,Transport for NSW,Major Works,Works in Progress,Western Sydney Infrastructure Plan,"Total, Works in Progress",,,,,,"6,629,788",bp3-infrastructure-statement-2024-25.pdf,147,356.892
+total,2024-25,general_government,Transport for NSW,Major Works,Works in Progress,Western Sydney Infrastructure Plan,"Total, Major Works",,,,,,"6,629,788",bp3-infrastructure-statement-2024-25.pdf,147,385.452
+total,2024-25,general_government,Transport for NSW,Major Works,Works in Progress,Western Sydney Infrastructure Plan,"Total, Minor Works",,,,,,"2,441,583",bp3-infrastructure-statement-2024-25.pdf,147,414.012
+total,2024-25,general_government,Transport for NSW,Major Works,Works in Progress,Western Sydney Infrastructure Plan,"Total, Transport for NSW",,,,,,"9,071,371",bp3-infrastructure-statement-2024-25.pdf,147,442.832
+total,2024-25,general_government,Sydney Metro,Major Works,New Works,,"Total, New Works",,,,,,"22,000",bp3-infrastructure-statement-2024-25.pdf,148,205.16199999999992
+total,2024-25,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Works in Progress",,,,,,"6,366,617",bp3-infrastructure-statement-2024-25.pdf,148,374.172
+total,2024-25,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Major Works",,,,,,"6,388,617",bp3-infrastructure-statement-2024-25.pdf,148,402.468
+total,2024-25,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Minor Works",,,,,,"174,649",bp3-infrastructure-statement-2024-25.pdf,148,431.028
+total,2024-25,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Sydney Metro",,,,,,"6,563,266",bp3-infrastructure-statement-2024-25.pdf,148,459.60799999999995
+total,2024-25,general_government,Office of Transport Safety Investigations,,,,"Total, Minor Works",,,,,,137,bp3-infrastructure-statement-2024-25.pdf,148,588.2779999999999
+total,2024-25,general_government,Office of Transport Safety Investigations,,,,"Total, Office of Transport Safety",Investigations,,,,,137,bp3-infrastructure-statement-2024-25.pdf,148,617.338
+total,2024-25,public_non_financial_corporation,Transport Asset Holding Entity of New South Wales,Major Works,Works in Progress,,"Total, Works in Progress",,,,,,"1,240,742",bp3-infrastructure-statement-2024-25.pdf,155,342.952
+total,2024-25,public_non_financial_corporation,Transport Asset Holding Entity of New South Wales,Major Works,Works in Progress,,"Total, Major Works",,,,,,"1,240,742",bp3-infrastructure-statement-2024-25.pdf,155,371.268
+total,2024-25,public_non_financial_corporation,Transport Asset Holding Entity of New South Wales,Major Works,Works in Progress,,"Total, Minor Works",,,,,,"668,923",bp3-infrastructure-statement-2024-25.pdf,155,399.828
+total,2024-25,public_non_financial_corporation,Transport Asset Holding Entity of New South Wales,Major Works,Works in Progress,,"Total, Transport Asset Holding",Entity of New,South Wales,,,,"1,909,665",bp3-infrastructure-statement-2024-25.pdf,155,428.148
+total,2024-25,public_non_financial_corporation,Sydney Ferries,,,,"Total, Minor Works",,,,,,"17,927",bp3-infrastructure-statement-2024-25.pdf,155,510.48799999999994
+total,2024-25,public_non_financial_corporation,Sydney Ferries,,,,"T otal, Sydney Ferries",,,,,,"17,927",bp3-infrastructure-statement-2024-25.pdf,155,539.078
+total,2024-25,public_non_financial_corporation,Sydney Trains,Leases,,,"Total, Leases",,,,,,"6,923",bp3-infrastructure-statement-2024-25.pdf,155,643.7379999999999
+total,2024-25,public_non_financial_corporation,Sydney Trains,Leases,,,"Total, Minor Works",,,,,,"63,729",bp3-infrastructure-statement-2024-25.pdf,155,672.298
+total,2024-25,public_non_financial_corporation,Sydney Trains,Leases,,,"Total, Sydney Trains",,,,,,"70,652",bp3-infrastructure-statement-2024-25.pdf,155,700.8879999999999
+total,2024-25,public_non_financial_corporation,NSW Trains,Leases,,,"Total, Leases",,,,,,223,bp3-infrastructure-statement-2024-25.pdf,156,174.63799999999992
+total,2024-25,public_non_financial_corporation,NSW Trains,Leases,,,"Total, Minor Works",,,,,,"6,065",bp3-infrastructure-statement-2024-25.pdf,156,202.97799999999995
+total,2024-25,public_non_financial_corporation,NSW Trains,Leases,,,"Total, NSW Trains",,,,,,"6,288",bp3-infrastructure-statement-2024-25.pdf,156,231.5379999999999
+total,2025-26,general_government,Transport for NSW,Major Works,Works in Progress,Western Sydney Infrastructure Plan,"Total, Works in Progress",,,,,,"5,425,607",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,158,264.442
+total,2025-26,general_government,Transport for NSW,Major Works,Works in Progress,Western Sydney Infrastructure Plan,"Total, Major Works",,,,,,"5,425,607",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,158,292.7679999999999
+total,2025-26,general_government,Transport for NSW,Major Works,Works in Progress,Western Sydney Infrastructure Plan,"Total, Minor Works",,,,,,"2,043,359",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,158,321.328
+total,2025-26,general_government,Transport for NSW,Major Works,Works in Progress,Western Sydney Infrastructure Plan,"Total, Transport for NSW",,,,,,"7,468,966",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,158,349.8879999999999
+total,2025-26,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Works in Progress",,,,,,"4,899,403",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,159,328.072
+total,2025-26,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Major Works",,,,,,"4,899,403",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,159,356.3879999999999
+total,2025-26,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Minor Works",,,,,,"86,923",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,159,384.9479999999999
+total,2025-26,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Sydney Metro",,,,,,"4,986,326",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,159,413.5079999999999
+total,2025-26,general_government,Office of Transport Safety Investigations,,,,"Total, Minor Works",,,,,,199,bp3-infrastructure-statement-nsw-budget-2025-26.pdf,159,522.7579999999999
+total,2025-26,general_government,Office of Transport Safety Investigations,,,,"Total, Office of Transport Safety",Investigations,,,,,199,bp3-infrastructure-statement-nsw-budget-2025-26.pdf,159,551.558
+total,2025-26,public_non_financial_corporation,Transport Asset Manager New South Wales,Major Works,Works in Progress,,"Total, Works in Progress",,,,,,"931,860",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,168,357.852
+total,2025-26,public_non_financial_corporation,Transport Asset Manager New South Wales,Major Works,Works in Progress,,"Total, Major Works",,,,,,"931,860",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,168,386.148
+total,2025-26,public_non_financial_corporation,Transport Asset Manager New South Wales,Major Works,Works in Progress,,"Total, Minor Works",,,,,,"830,059",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,168,414.708
+total,2025-26,public_non_financial_corporation,Transport Asset Manager New South Wales,Major Works,Works in Progress,,"Total, Transport Asset Manager",New South Wales,,,,,"1,761,919",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,168,443.528
+total,2025-26,public_non_financial_corporation,Sydney Ferries,Major Works,Works in Progress,,"Total, Works in Progress",,,,,,"39,304",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,168,617.362
+total,2025-26,public_non_financial_corporation,Sydney Ferries,Major Works,Works in Progress,,"Total, Major Works",,,,,,"39,304",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,168,645.4179999999999
+total,2025-26,public_non_financial_corporation,Sydney Ferries,Major Works,Works in Progress,,"Total, Minor Works",,,,,,"21,213",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,168,674.218
+total,2025-26,public_non_financial_corporation,Sydney Ferries,Major Works,Works in Progress,,"Total, Sydney Ferries",,,,,,"60,517",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,168,702.808
+total,2025-26,public_non_financial_corporation,Sydney Trains,Leases,,,"Total, Leases",,,,,,"12,660",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,169,177.2779999999999
+total,2025-26,public_non_financial_corporation,Sydney Trains,Leases,,,"Total, Minor Works",,,,,,"62,395",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,169,206.09799999999996
+total,2025-26,public_non_financial_corporation,Sydney Trains,Leases,,,"Total, Sydney Trains",,,,,,"75,055",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,169,234.6579999999999
+total,2025-26,public_non_financial_corporation,NSW Trains,Leases,,,"Total, Leases",,,,,,23,bp3-infrastructure-statement-nsw-budget-2025-26.pdf,169,348.68799999999993
+total,2025-26,public_non_financial_corporation,NSW Trains,Leases,,,"Total, Minor Works",,,,,,"8,770",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,169,377.268
+total,2025-26,public_non_financial_corporation,NSW Trains,Leases,,,"Total, NSW Trains",,,,,,"8,793",bp3-infrastructure-statement-nsw-budget-2025-26.pdf,169,406.0679999999999
+total,2026-27,general_government,Transport for NSW,Major Works,Works in Progress,Urban Roads Fund,"Total, Works in Progress",,,,,,"6,077,855",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,154,680.145
+total,2026-27,general_government,Transport for NSW,Major Works,Works in Progress,Urban Roads Fund,"Total, Major Works",,,,,,"6,077,855",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,154,703.881
+total,2026-27,general_government,Transport for NSW,Major Works,Works in Progress,Urban Roads Fund,"Total, Minor Works(c)(d)",,,,,,"2,672,724",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,154,727.5899999999999
+total,2026-27,general_government,Transport for NSW,Major Works,Works in Progress,Urban Roads Fund,"Total, Transport for NSW",,,,,,"8,750,579",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,154,752.001
+total,2026-27,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Works in Progress",,,,,,"4,497,701",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,155,468.1749999999999
+total,2026-27,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Major Works",,,,,,"4,497,701",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,155,491.791
+total,2026-27,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Minor Works",,,,,,"4,814",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,155,515.911
+total,2026-27,general_government,Sydney Metro,Major Works,Works in Progress,,"Total, Sydney Metro",,,,,,"4,502,515",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,155,540.0609999999999
+total,2026-27,general_government,Office of Transport Safety Investigations,,,,"Total, Minor Works",,,,,,219,bp3-infrastructure-statement-nsw-budget-2026-27.pdf,155,651.661
+total,2026-27,general_government,Office of Transport Safety Investigations,,,,"Total, Office of Transport Safety",Investigations,,,,,219,bp3-infrastructure-statement-nsw-budget-2026-27.pdf,155,674.481
+total,2026-27,public_non_financial_corporation,Transport Asset Manager New South Wales (TAM),Major Works,Works in Progress,,"Total, Works in Progress",,,,,,"1,110,394",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,164,374.4549999999999
+total,2026-27,public_non_financial_corporation,Transport Asset Manager New South Wales (TAM),Major Works,Works in Progress,,"Total, Major Works",,,,,,"1,110,394",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,164,398.671
+total,2026-27,public_non_financial_corporation,Transport Asset Manager New South Wales (TAM),Major Works,Works in Progress,,"Total, Minor Works",,,,,,"724,877",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,164,422.791
+total,2026-27,public_non_financial_corporation,Transport Asset Manager New South Wales (TAM),Major Works,Works in Progress,,"Total, Transport Asset Manager",New South,Wales (TAM),,,,"1,835,271",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,164,447.1749999999999
+total,2026-27,public_non_financial_corporation,Sydney Ferries,Major Works,Works in Progress,,"Total, Works in Progress",,,,,,"18,844",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,164,612.085
+total,2026-27,public_non_financial_corporation,Sydney Ferries,Major Works,Works in Progress,,"Total, Major Works",,,,,,"18,844",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,164,635.701
+total,2026-27,public_non_financial_corporation,Sydney Ferries,Major Works,Works in Progress,,"Total, Minor Works",,,,,,"16,942",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,164,659.8209999999999
+total,2026-27,public_non_financial_corporation,Sydney Ferries,Major Works,Works in Progress,,"Total, Sydney Ferries",,,,,,"35,786",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,164,683.961
+total,2026-27,public_non_financial_corporation,Sydney Trains,Leases,,,"Total, Leases",,,,,,"18,899",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,165,174.2209999999999
+total,2026-27,public_non_financial_corporation,Sydney Trains,Leases,,,"Total, Minor Works",,,,,,"53,816",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,165,198.2209999999999
+total,2026-27,public_non_financial_corporation,Sydney Trains,Leases,,,"Total, Sydney Trains",,,,,,"72,715",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,165,222.37099999999987
+total,2026-27,public_non_financial_corporation,NSW Trains,Leases,,,"Total, Leases",,,,,,"38,997",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,165,341.051
+total,2026-27,public_non_financial_corporation,NSW Trains,Leases,,,"Total, Minor Works",,,,,,"10,006",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,165,365.051
+total,2026-27,public_non_financial_corporation,NSW Trains,Leases,,,"Total, NSW Trains",,,,,,"49,003",bp3-infrastructure-statement-nsw-budget-2026-27.pdf,165,389.191
