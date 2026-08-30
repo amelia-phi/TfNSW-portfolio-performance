@@ -123,16 +123,6 @@ def validate_sources() -> None:
             f"({file_path.name})"
         )
 
-    print(
-        "\nAll Budget Paper sources passed validation."
-    )
 
 
-def main() -> None:
-    """Run validation without starting extraction."""
 
-    validate_sources()
-
-
-if __name__ == "__main__":
-    main()
