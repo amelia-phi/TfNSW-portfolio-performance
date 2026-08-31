@@ -1,0 +1,293 @@
+master_project_id,master_project_name,canonical_source_dataset,canonical_source_project_id,match_group_id,source_record_count,source_dataset_count,source_datasets,has_cross_source_match
+MASTER-0001,"Heathcote Road, The Avenue to Princes Highway",project_register,PRJ-0038,GROUP-0001,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0002,Western Sydney Heavy Vehicle Rest Area,project_register,PRJ-0096,GROUP-0002,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0003,M1 Tweed Heads and Byron Bay (State and Federal Funded),budget_paper,BUD-02D2E44107,GROUP-0003,1,1,budget_paper,False
+MASTER-0004,Pedestrian Safety Barriers Blaxland,budget_paper,BUD-04E9A9619F,GROUP-0004,1,1,budget_paper,False
+MASTER-0005,Airport Precinct Safety and Access Program (APSAP),project_register,PRJ-0001,GROUP-0005,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0006,"Richmond Road Upgrade between M7 Motorway and Townson Road, Marsden Park (State and Federal Funded)(c)",budget_paper,BUD-0883AFA828,GROUP-0006,1,1,budget_paper,False
+MASTER-0007,Western Sydney Long Term Strategic Transport Corridor Preservation,budget_paper,BUD-08E4363424,GROUP-0007,1,1,budget_paper,False
+MASTER-0008,Western Sydney International Airport Wayfinding,project_timeline,TFNSW-0099,GROUP-0008,2,2,budget_paper; project_timeline,True
+MASTER-0009,Princes Highway Corridor (NSW) - Jervis Bay to Sussex Inlet Road Upgrade Stage 1 (State and Federal Funded),budget_paper,BUD-0EA71AF980,GROUP-0009,1,1,budget_paper,False
+MASTER-0010,Eastern Ring Road and Badgerys Creek Road (South) - Elizabeth Drive to The Northern Road,project_register,PRJ-0024,GROUP-0010,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0011,"Lease Acquisition between $250,000 and $20 million(a)",budget_paper,BUD-0EEE412074,GROUP-0011,1,1,budget_paper,False
+MASTER-0012,Sheahan Bridge Upgrade (Planning) (State and Federal Funded),budget_paper,BUD-108031018C,GROUP-0012,1,1,budget_paper,False
+MASTER-0013,Francis Road Railway Overpass Widening at Rooty Hill,project_timeline,TFNSW-0107,GROUP-0013,2,2,budget_paper; project_timeline,True
+MASTER-0014,Devonshire Link Road and Bradfield Metro Link Road (Planning) (State and Federal Funded),budget_paper,BUD-11D8E6866A,GROUP-0014,1,1,budget_paper,False
+MASTER-0015,New Bus Services for Western Sydney,project_register,PRJ-0059,GROUP-0015,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0016,"Lease Acquisition between $250,000 and $20 million(a)",budget_paper,BUD-142F883609,GROUP-0016,1,1,budget_paper,False
+MASTER-0017,Princes Highway Corridor - Milton Ulladulla Bypass (State and Federal Funded),budget_paper,BUD-162C3A2891,GROUP-0017,1,1,budget_paper,False
+MASTER-0018,Regional Corridors Upgrade Program – Euston to Tocumwal,project_register,PRJ-0073,GROUP-0018,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0019,Princes Highway Corridor (NSW) - Jervis Bay Road to Hawken Road (State and Federal Funded),budget_paper,BUD-19CC4BAA16,GROUP-0019,1,1,budget_paper,False
+MASTER-0020,"Pacific Highway, Wyong Town Centre",project_register,PRJ-0070,GROUP-0020,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0021,Mamre Road - Erskine Park Road to Kerrs Road (State and Federal Funded),budget_paper,BUD-1B5414E81E,GROUP-0021,1,1,budget_paper,False
+MASTER-0022,"Prospect Highway, Reservoir Road to St Martins Crescent (State and Federal Funded)",budget_paper,BUD-1B82A8C537,GROUP-0022,1,1,budget_paper,False
+MASTER-0023,Sydney Metro City and Southwest(b),budget_paper,BUD-1CA427DAF9,GROUP-0023,1,1,budget_paper,False
+MASTER-0024,Bandon Road Corridor Upgrade and Extension (Planning) (State and Federal Funded)(d),budget_paper,BUD-1CBFC0787B,GROUP-0024,1,1,budget_paper,False
+MASTER-0025,"King Georges Road, Stoney Creek Road to Connells Point Road - Stage 1 and 2A (State and Federal Funded)",budget_paper,BUD-1EA45D850D,GROUP-0025,1,1,budget_paper,False
+MASTER-0026,"Minmi Road and Newcastle Link Road, Edgeworth",budget_paper,BUD-1FCC4A8462,GROUP-0026,1,1,budget_paper,False
+MASTER-0027,"Great Western Highway, Medlow Bath (State and Federal Funded)",budget_paper,BUD-2559AC5020,GROUP-0027,1,1,budget_paper,False
+MASTER-0028,Western Distributor Smart Motorway (State and Federal Funded),budget_paper,BUD-262FF355DB,GROUP-0028,1,1,budget_paper,False
+MASTER-0029,Traffic Lights at Bank Street,budget_paper,BUD-29068BD298,GROUP-0029,1,1,budget_paper,False
+MASTER-0030,"Hargraves Lane and Federation St Upgrade, Gilgandra (Heavy Vehicle bypass) (State and Federal Funded)",budget_paper,BUD-2BD8B456AF,GROUP-0030,1,1,budget_paper,False
+MASTER-0031,Castlereagh Connection,project_register,PRJ-0017,GROUP-0031,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0032,Tolling Operations and Modernisation,budget_paper,BUD-2CEC9D2094,GROUP-0032,1,1,budget_paper,False
+MASTER-0033,Bus Transport Management System (BTMS),budget_paper,BUD-2DA7F81D69,GROUP-0033,1,1,budget_paper,False
+MASTER-0034,Bruxner Highway Upgrades,budget_paper,BUD-2EB349B281,GROUP-0034,1,1,budget_paper,False
+MASTER-0035,Waterfall Way Upgrade,budget_paper,BUD-2F3E8A1DB2,GROUP-0035,1,1,budget_paper,False
+MASTER-0036,Mamre Road Stage 2 - Erskine Park Road to Kerrs Road (State and Federal Funded),budget_paper,BUD-2F462C0CFB,GROUP-0036,1,1,budget_paper,False
+MASTER-0037,Warringah Freeway Upgrade,budget_paper,BUD-3029BE90AC,GROUP-0037,1,1,budget_paper,False
+MASTER-0038,Circular Quay Precinct Renewal (Planning) (State and Federal Funded),budget_paper,BUD-341A7DEC42,GROUP-0038,1,1,budget_paper,False
+MASTER-0039,Western Sydney Roads (Planning) (State and Federal Funded),budget_paper,BUD-364246C8DD,GROUP-0039,1,1,budget_paper,False
+MASTER-0040,Western Distributor Network Integration,budget_paper,BUD-39E1ADA860,GROUP-0040,1,1,budget_paper,False
+MASTER-0041,"Heathcote Road, Infantry Parade, Hammondville to The Avenue, Voyager Point (State and Federal Funded)",budget_paper,BUD-3A1CC1C8D7,GROUP-0041,1,1,budget_paper,False
+MASTER-0042,Townson and Burdekin Road Upgrades (Planning) (State and Federal Funded),budget_paper,BUD-3A484C60E7,GROUP-0042,1,1,budget_paper,False
+MASTER-0043,Devonshire Road (Planning),budget_paper,BUD-3A635972C5,GROUP-0043,1,1,budget_paper,False
+MASTER-0044,Driftway Roundabout at Londonderry,budget_paper,BUD-3AB43004E9,GROUP-0044,1,1,budget_paper,False
+MASTER-0045,Sydney Metro - Western Sydney Airport - Northern Extension Final Business Case,project_register,PRJ-0084,GROUP-0045,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0046,Richmond Road Corridor Upgrade (Planning) (State and Federal Funded),budget_paper,BUD-3CE94DF8C5,GROUP-0046,1,1,budget_paper,False
+MASTER-0047,Pitt Town Bypass(c),budget_paper,BUD-3DBA2152A0,GROUP-0047,1,1,budget_paper,False
+MASTER-0048,Elizabeth Drive Upgrades (State and Federal Funded)(c),budget_paper,BUD-414C68472D,GROUP-0048,1,1,budget_paper,False
+MASTER-0049,Other Works,budget_paper,BUD-414CC9D7FB,GROUP-0049,1,1,budget_paper,False
+MASTER-0050,Princes Highway Upgrade Program Corridor - Safety and Productivity Upgrades,budget_paper,BUD-426534E52A,GROUP-0050,1,1,budget_paper,False
+MASTER-0051,Golden Highway Improvements,budget_paper,BUD-43464B1FCF,GROUP-0051,1,1,budget_paper,False
+MASTER-0052,South West Sydney Rail Planning-Business Case (State and Federal Funded)(a),budget_paper,BUD-4448787F3E,GROUP-0052,1,1,budget_paper,False
+MASTER-0053,M5 Motorway - Moorebank Avenue - Hume Highway Intersection Upgrade (State and Federal Funded),budget_paper,BUD-459AC1EDBE,GROUP-0053,1,1,budget_paper,False
+MASTER-0054,Henry Lawson Drive Upgrade Stage 1A,budget_paper,BUD-45FC0ADBD6,GROUP-0054,1,1,budget_paper,False
+MASTER-0055,Alphadale Crossroads,budget_paper,BUD-46C8180649,GROUP-0055,1,1,budget_paper,False
+MASTER-0056,Gosford Bypass (Planning and Design),budget_paper,BUD-47B24AD725,GROUP-0056,1,1,budget_paper,False
+MASTER-0057,Parramatta Class Ferries,budget_paper,BUD-48D950F24B,GROUP-0057,1,1,budget_paper,False
+MASTER-0058,Mariyung Fleet (New Intercity Fleet),budget_paper,BUD-497A5B5BF5,GROUP-0058,1,1,budget_paper,False
+MASTER-0059,M1 Princes Motorway Entry and Exit Ramps (State and Federal Funded)(d),budget_paper,BUD-4A83D09FAB,GROUP-0059,1,1,budget_paper,False
+MASTER-0060,Parramatta Light Rail Stage 1,budget_paper,BUD-4B5A1D8FEB,GROUP-0060,1,1,budget_paper,False
+MASTER-0061,Duplicate Sections of Heathcote Road,budget_paper,BUD-4B7AFA71DA,GROUP-0061,1,1,budget_paper,False
+MASTER-0062,"Great Western Highway, Coxs River Road (State and Federal Funded)",budget_paper,BUD-4BC1719981,GROUP-0062,1,1,budget_paper,False
+MASTER-0063,Nelson Bay Road - Williamtown to Bobs Farm (State and Federal Funded),budget_paper,BUD-4D8E339A7A,GROUP-0063,1,1,budget_paper,False
+MASTER-0064,Speers Point Intersection(d),budget_paper,BUD-517B618087,GROUP-0064,1,1,budget_paper,False
+MASTER-0065,South West Sydney Roads (Planning) (State and Federal Funded),budget_paper,BUD-51F7A09AF8,GROUP-0065,1,1,budget_paper,False
+MASTER-0066,Picton Road Upgrade (Planning) (State and Federal Funded),budget_paper,BUD-5385E893C1,GROUP-0066,1,1,budget_paper,False
+MASTER-0067,Active Transport,budget_paper,BUD-55D1E30739,GROUP-0067,1,1,budget_paper,False
+MASTER-0068,"Pacific Highway, Harrington Road / Coopernook Road interchange",project_register,PRJ-0068,GROUP-0068,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0069,"Hillsborough Road, Warners Bay to Charlestown (Stage 1)(e)",budget_paper,BUD-5B36F2211F,GROUP-0069,1,1,budget_paper,False
+MASTER-0070,"Central Coast Highway, Tumbi Road Intersection Upgrade (State and Federal Funded)",budget_paper,BUD-5D4D5C4FC7,GROUP-0070,1,1,budget_paper,False
+MASTER-0071,"New England Highway, Singleton Bypass (State and Federal Funded)",budget_paper,BUD-5D97035C08,GROUP-0071,1,1,budget_paper,False
+MASTER-0072,Tuross Head Intersection,budget_paper,BUD-5F3B10D75B,GROUP-0072,1,1,budget_paper,False
+MASTER-0073,Pinch Points and Clearways (State and Federal Funded),budget_paper,BUD-615FC9F19D,GROUP-0073,1,1,budget_paper,False
+MASTER-0074,Wallerawang Train Station Reactivation,budget_paper,BUD-628937EF8A,GROUP-0074,1,1,budget_paper,False
+MASTER-0075,Mount Ousley Interchange (State and Federal Funded),budget_paper,BUD-642E91727A,GROUP-0075,1,1,budget_paper,False
+MASTER-0076,Resurface Canterbury Road,budget_paper,BUD-649E2B8DEE,GROUP-0076,1,1,budget_paper,False
+MASTER-0077,Sydney Metro-Western Sydney Airport (State and Federal Funded)(c),budget_paper,BUD-669FBFF62A,GROUP-0077,1,1,budget_paper,False
+MASTER-0078,Western Harbour Tunnel,budget_paper,BUD-678784DB1D,GROUP-0078,1,1,budget_paper,False
+MASTER-0079,Windsor Road Upgrade at Rouse Hill,project_register,PRJ-0097,GROUP-0079,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0080,Rail Service Improvement Program,budget_paper,BUD-688B325B42,GROUP-0080,1,1,budget_paper,False
+MASTER-0081,Community Commitments - Road and Transport,budget_paper,BUD-690F3C380A,GROUP-0081,1,1,budget_paper,False
+MASTER-0082,Great Western Highway Detour Resilience Work,budget_paper,BUD-6A19BAC2D9,GROUP-0082,1,1,budget_paper,False
+MASTER-0083,Mandalong Road Upgrade (State and Federal Funded),budget_paper,BUD-6D566BBA6B,GROUP-0083,1,1,budget_paper,False
+MASTER-0084,Narooma Bridge (Planning) (State and Federal Funded),budget_paper,BUD-6E640330C0,GROUP-0084,1,1,budget_paper,False
+MASTER-0085,Mulgoa Road Stage 1 - Blaikie Road to M4 Motorway (State and Federal Funded)(c),budget_paper,BUD-6F2F434C09,GROUP-0085,1,1,budget_paper,False
+MASTER-0086,Coffs Harbour Bypass (State and Federal Funded),budget_paper,BUD-6F639863F3,GROUP-0086,1,1,budget_paper,False
+MASTER-0087,"Mona Vale Road West upgrade, McCarrs Creek Road to Powder Works Road",project_register,PRJ-0052,GROUP-0087,4,3,budget_paper; project_register; project_timeline,True
+MASTER-0088,Return Freshwater Class Ferries to Circular Quay-Manly,budget_paper,BUD-72C4A32358,GROUP-0088,1,1,budget_paper,False
+MASTER-0089,Garfield Road East (State and Federal Funded)(c),budget_paper,BUD-72D6664ACC,GROUP-0089,1,1,budget_paper,False
+MASTER-0090,Hawkesbury Nepean Valley Flood Evacuation Road Resilience - Planning (State and Federal Funded),budget_paper,BUD-7331A99D57,GROUP-0090,1,1,budget_paper,False
+MASTER-0091,Upgrade Garfield Road East (State and Federal Funded)(f),budget_paper,BUD-73D082597D,GROUP-0091,1,1,budget_paper,False
+MASTER-0092,Picton Bypass (Planning) (State and Federal Funded),budget_paper,BUD-76005766AE,GROUP-0092,1,1,budget_paper,False
+MASTER-0093,"The Horsley Drive, M7 Motorway to Cowpasture Road",project_register,PRJ-0090,GROUP-0093,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0094,"Pacific Motorway, Extension to Raymond Terrace (State and Federal Funded)",budget_paper,BUD-7A37BF52FD,GROUP-0094,1,1,budget_paper,False
+MASTER-0095,Sydney Coordinated Adaptive Traffic System (SCATS) Customer Improvement Program,budget_paper,BUD-7A6B8C0F3B,GROUP-0095,1,1,budget_paper,False
+MASTER-0096,Princes Highway Corridor (NSW) - Jervis Bay Road Intersection (State and Federal Funded),budget_paper,BUD-7B9FD9B846,GROUP-0096,1,1,budget_paper,False
+MASTER-0097,Upgrade of Bandon Road (Planning) (State and Federal Funded)(f),budget_paper,BUD-7C25E09D3F,GROUP-0097,1,1,budget_paper,False
+MASTER-0098,Spring Farm Parkway Stage 1,budget_paper,BUD-7CD033B2CE,GROUP-0098,1,1,budget_paper,False
+MASTER-0099,Newell Highway Narrabri to Moree Heavy Duty Pavements (State and Federal Funded),budget_paper,BUD-7D2A013AD4,GROUP-0099,1,1,budget_paper,False
+MASTER-0100,Yass Road-Bungendore Road- Ellerton Drive Intersection,budget_paper,BUD-7FF3EA741A,GROUP-0100,1,1,budget_paper,False
+MASTER-0101,Parramatta Light Rail Stage 2 Main Works,project_register,PRJ-0071,GROUP-0101,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0102,Barton Highway Improvements (State and Federal Funded),budget_paper,BUD-80E896BC80,GROUP-0102,1,1,budget_paper,False
+MASTER-0103,Safe Accessible Transport,project_register,PRJ-0078,GROUP-0103,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0104,New Electric Bus Program,project_register,PRJ-0060,GROUP-0104,2,2,budget_paper; project_register,True
+MASTER-0105,Terrigal Drive Upgrade,project_register,PRJ-0089,GROUP-0105,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0106,Sydney Fish Markets Ferry Wharf,project_timeline,TFNSW-0050,GROUP-0106,2,2,budget_paper; project_timeline,True
+MASTER-0107,Old Windsor Road (Planning) (Federal Funded),budget_paper,BUD-85A55BA206,GROUP-0107,1,1,budget_paper,False
+MASTER-0108,"New England Highway, Muswellbrook Bypass (State and Federal Funded)",budget_paper,BUD-85E906140C,GROUP-0108,1,1,budget_paper,False
+MASTER-0109,Swan Hill Bridge (State and Federal Funded),budget_paper,BUD-880BB0DE69,GROUP-0109,1,1,budget_paper,False
+MASTER-0110,Fixing Country Rail,budget_paper,BUD-8888CFE34F,GROUP-0110,1,1,budget_paper,False
+MASTER-0111,Regional Rail Fleet Program,budget_paper,BUD-8A6975EE09,GROUP-0111,1,1,budget_paper,False
+MASTER-0112,Thornton bridge duplication,project_register,PRJ-0092,GROUP-0112,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0113,Golden Highway Upgrades - Mudies Creek (State and Federal Funded),budget_paper,BUD-8D5E06A8C1,GROUP-0113,1,1,budget_paper,False
+MASTER-0114,Homebush Bay Drive and Australia Avenue Intersection Upgrade (State and Federal Funded),budget_paper,BUD-8F69D8D289,GROUP-0114,1,1,budget_paper,False
+MASTER-0115,Epping Station Bridge Replacement (State and Federal Funded),budget_paper,BUD-90A8D182FB,GROUP-0115,1,1,budget_paper,False
+MASTER-0116,Traffic Lights at Elara Boulevard,budget_paper,BUD-91EAA5B3F9,GROUP-0116,1,1,budget_paper,False
+MASTER-0117,Spring Farm Parkway Stage 2 (Planning) (State and Federal Funded)(c),budget_paper,BUD-920324F71C,GROUP-0117,1,1,budget_paper,False
+MASTER-0118,"Pacific Highway - Harrington Road Intersection Upgrade, Coopernook (Planning)(State and Federal Funded)",budget_paper,BUD-943E51C71A,GROUP-0118,1,1,budget_paper,False
+MASTER-0119,"M12 Motorway, M7 to The Northern Road (State and Federal Funded)",budget_paper,BUD-94E9E7CC29,GROUP-0119,1,1,budget_paper,False
+MASTER-0120,New England Highway Duplication (Goonoo Goonoo Road) (State and Federal Funded),budget_paper,BUD-9A68224DAA,GROUP-0120,1,1,budget_paper,False
+MASTER-0121,"Avoca Drive, Central Coast (State and Federal Funded)",budget_paper,BUD-9A6D523B2C,GROUP-0121,1,1,budget_paper,False
+MASTER-0122,Regional NSW Bridge Upgrades,budget_paper,BUD-9A94D2DE6A,GROUP-0122,1,1,budget_paper,False
+MASTER-0123,Hill Road Upgrade,budget_paper,BUD-9D1EB3BB36,GROUP-0123,1,1,budget_paper,False
+MASTER-0124,Rail Fleet Strategy including Future Fleet Tangara Replacement (Planning),budget_paper,BUD-A1A16B6C81,GROUP-0124,1,1,budget_paper,False
+MASTER-0125,Homebush Bay Drive Upgrade (State and Federal Funded),budget_paper,BUD-A2D1EA6715,GROUP-0125,1,1,budget_paper,False
+MASTER-0126,South West Sydney Rail Planning-Business Case (State and Federal Funded)(b),budget_paper,BUD-A39C805B02,GROUP-0126,1,1,budget_paper,False
+MASTER-0127,"Pacific Motorway, Hexham Straight (State and Federal Funded)",budget_paper,BUD-A58A0EF6FF,GROUP-0127,1,1,budget_paper,False
+MASTER-0128,Future Fleet Program,project_register,PRJ-0029,GROUP-0128,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0129,Zero Emissions Buses Program,budget_paper,BUD-A79D6516E0,GROUP-0129,1,1,budget_paper,False
+MASTER-0130,Appin Road Upgrades (State and Federal Funded),budget_paper,BUD-A86A72F93F,GROUP-0130,1,1,budget_paper,False
+MASTER-0131,Flushcombe Road & Bungarribee Road Intersection Upgrade (Planning),budget_paper,BUD-AB5BF73325,GROUP-0131,1,1,budget_paper,False
+MASTER-0132,Newell Highway Flood Mitigation Works (Planning) (State and Federal Funded),budget_paper,BUD-ACB04930C1,GROUP-0132,1,1,budget_paper,False
+MASTER-0133,Wallendbeen Bridge Approaches,budget_paper,BUD-AF0B297F2F,GROUP-0133,1,1,budget_paper,False
+MASTER-0134,Newell Highway - North Moree Heavy Duty Pavement (State and Federal Funded),budget_paper,BUD-B2B1F1B833,GROUP-0134,1,1,budget_paper,False
+MASTER-0135,Bulli Bypass Investigation,budget_paper,BUD-B33CF5AEA8,GROUP-0135,1,1,budget_paper,False
+MASTER-0136,Opal 2.0,budget_paper,BUD-B579BC7396,GROUP-0136,1,1,budget_paper,False
+MASTER-0137,Zero Emissions Buses Program (State and Federal funded),budget_paper,BUD-B5FF67A08A,GROUP-0137,1,1,budget_paper,False
+MASTER-0138,Hume Highway Corridor Strategy (Planning) (State and Federal Funded),budget_paper,BUD-B68001C12C,GROUP-0138,1,1,budget_paper,False
+MASTER-0139,Western Sydney Freight Line and Intermodal Terminal  - Stage 1 Full Business Case,project_register,PRJ-0095,GROUP-0139,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0140,John Renshaw Drive Upgrade (Planning) (State and Federal Funded),budget_paper,BUD-BA7EE294B1,GROUP-0140,1,1,budget_paper,False
+MASTER-0141,Marshalls Creek Bridge,budget_paper,BUD-BB57EF85AD,GROUP-0141,1,1,budget_paper,False
+MASTER-0142,Widen Richmond Road at Elara Boulevard (State and Federal Funded)(f),budget_paper,BUD-BB7B597D6A,GROUP-0142,1,1,budget_paper,False
+MASTER-0143,Yass Road-Bungendore Road- Ellerton Road Intersection,budget_paper,BUD-BF17A2C566,GROUP-0143,1,1,budget_paper,False
+MASTER-0144,Tichborne & Harris Gates Grade Separation Road Interface (State and Federal Funded),budget_paper,BUD-BFCA5E7F24,GROUP-0144,1,1,budget_paper,False
+MASTER-0145,Nowra Bypass and Network Improvements (Planning) (State and Federal Funded),budget_paper,BUD-C18353623A,GROUP-0145,1,1,budget_paper,False
+MASTER-0146,Widen Richmond Road from the M7 to Townson Road (State and Federal Funded)(f),budget_paper,BUD-C1FE6F4981,GROUP-0146,1,1,budget_paper,False
+MASTER-0147,Wakehurst Parkway,budget_paper,BUD-C318EE281A,GROUP-0147,1,1,budget_paper,False
+MASTER-0148,"Newell Highway, Parkes Bypass (State and Federal Funded)",budget_paper,BUD-C653E7DCA6,GROUP-0148,1,1,budget_paper,False
+MASTER-0149,Mamre Road Stage 1 - M4 Motorway to Erskine Park Road,budget_paper,BUD-C854007C49,GROUP-0149,1,1,budget_paper,False
+MASTER-0150,"Richmond Road Upgrade between Elara Boulevard and Heritage Road, Marsden Park (State and Federal Funded)(c)",budget_paper,BUD-C96B703CBF,GROUP-0150,1,1,budget_paper,False
+MASTER-0151,Regional Corridors Upgrade Program – Muswellbrook to Armidale,project_register,PRJ-0074,GROUP-0151,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0152,Opal Next Generation,budget_paper,BUD-CB3746823F,GROUP-0152,1,1,budget_paper,False
+MASTER-0153,Other Works,budget_paper,BUD-CB686A82E2,GROUP-0153,1,1,budget_paper,False
+MASTER-0154,Liverpool to Airport Transit Corridor,budget_paper,BUD-CC8CCD4602,GROUP-0154,1,1,budget_paper,False
+MASTER-0155,Macquarie Park Precinct and Bus Interchange,project_register,PRJ-0045,GROUP-0155,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0156,"Newcastle Inner City Bypass, Rankin Park to Jesmond (State and Federal Funded)",budget_paper,BUD-CF78CC0A58,GROUP-0156,1,1,budget_paper,False
+MASTER-0157,Road Safety (State and Federal Funded),budget_paper,BUD-D10D435BCC,GROUP-0157,1,1,budget_paper,False
+MASTER-0158,New Buses to Cater for NSW Services,budget_paper,BUD-D149CF64EE,GROUP-0158,1,1,budget_paper,False
+MASTER-0159,"Mamre Road, M4 Motorway to Erskine Park Road",budget_paper,BUD-D181E5D50C,GROUP-0159,1,1,budget_paper,False
+MASTER-0160,Princes Highway Corridor (NSW) - Milton Ulladulla Bypass (State and Federal Funded),budget_paper,BUD-D3E2996928,GROUP-0160,1,1,budget_paper,False
+MASTER-0161,"Memorial Avenue, Old Windsor Road to Windsor Road (State and Federal Funded)",budget_paper,BUD-D44C3C7C41,GROUP-0161,1,1,budget_paper,False
+MASTER-0162,Woollahra Station Activation,project_register,PRJ-0098,GROUP-0162,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0163,Bells Line of Road Upgrade Program (Federal Funded),budget_paper,BUD-D77A436B81,GROUP-0163,1,1,budget_paper,False
+MASTER-0164,Sydney Metro West,budget_paper,BUD-DAB31A7E21,GROUP-0164,1,1,budget_paper,False
+MASTER-0165,Maritime Infrastructure Upgrades,budget_paper,BUD-DB056B1672,GROUP-0165,1,1,budget_paper,False
+MASTER-0166,M1 Princes Motorway Entry and Exit Ramps,budget_paper,BUD-DC5F4FB2C9,GROUP-0166,1,1,budget_paper,False
+MASTER-0167,Garfield Road West (Planning) (State and Federal Funded),budget_paper,BUD-DC8F8422E5,GROUP-0167,1,1,budget_paper,False
+MASTER-0168,M6 Extension Stage 1,budget_paper,BUD-DD5F590495,GROUP-0168,1,1,budget_paper,False
+MASTER-0169,Pedestrian Overpass Hurstville Primary (Planning),budget_paper,BUD-DEBDBA1B99,GROUP-0169,1,1,budget_paper,False
+MASTER-0170,Mount Ousley Safety and Reliability Works (Planning) (State and Federal Funded),budget_paper,BUD-DECAE5B450,GROUP-0170,1,1,budget_paper,False
+MASTER-0171,Transport Access Program - Commuter Wharf Upgrades,budget_paper,BUD-DFA7CB71FD,GROUP-0171,1,1,budget_paper,False
+MASTER-0172,"King Georges Road, Stoney Creek Road to Connells Point Road (State and Federal Funded)",budget_paper,BUD-E0C3AB31A5,GROUP-0172,1,1,budget_paper,False
+MASTER-0173,RegStar Program,budget_paper,BUD-E3A9B7A928,GROUP-0173,1,1,budget_paper,False
+MASTER-0174,Regional Corridors Upgrade Program – Newcastle to Dubbo,project_register,PRJ-0075,GROUP-0174,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0175,Monaro Highway Upgrade Program,budget_paper,BUD-E657093806,GROUP-0175,1,1,budget_paper,False
+MASTER-0176,New Richmond Bridge and Traffic Improvements (State and Federal Funded),budget_paper,BUD-E76DF8E081,GROUP-0176,1,1,budget_paper,False
+MASTER-0177,Henry Lawson Drive Stage 1B,project_register,PRJ-0039,GROUP-0177,3,3,budget_paper; project_register; project_timeline,True
+MASTER-0178,"Safe, Accessible Transport Upgrades",budget_paper,BUD-EB9D9B0E5A,GROUP-0178,1,1,budget_paper,False
+MASTER-0179,XPT Fleet Upgrade (Planning),budget_paper,BUD-EC1C07423F,GROUP-0179,1,1,budget_paper,False
+MASTER-0180,Tangara Fleet Life Extension,budget_paper,BUD-F08503D135,GROUP-0180,1,1,budget_paper,False
+MASTER-0181,RegStar Program (Planning and Development),budget_paper,BUD-F1488DCD1A,GROUP-0181,1,1,budget_paper,False
+MASTER-0182,Rural and Regional Ticketing Solution,budget_paper,BUD-F3BA4F7F01,GROUP-0182,1,1,budget_paper,False
+MASTER-0183,M7-M12 Integration(d)(e),budget_paper,BUD-F3D5853ABB,GROUP-0183,1,1,budget_paper,False
+MASTER-0184,Bus Priority Infrastructure,budget_paper,BUD-F5F966FB94,GROUP-0184,1,1,budget_paper,False
+MASTER-0185,Sydney Gateway,budget_paper,BUD-F7801A4F2A,GROUP-0185,1,1,budget_paper,False
+MASTER-0186,Transport Connected Bus Program,budget_paper,BUD-F88C70FC79,GROUP-0186,1,1,budget_paper,False
+MASTER-0187,Heavy Vehicle Rest Stops Improvement Program,budget_paper,BUD-F9D5A88353,GROUP-0187,1,1,budget_paper,False
+MASTER-0188,"Newell Highway, New Dubbo Bridge (State and Federal Funded)",budget_paper,BUD-F9E440143C,GROUP-0188,1,1,budget_paper,False
+MASTER-0189,Golden Highway Dubbo to Newcastle Improvement Program (Planning) (State and Federal Funded),budget_paper,BUD-F9FD0AB531,GROUP-0189,1,1,budget_paper,False
+MASTER-0190,Henry Lawson Drive Upgrade Stage 1B (State and Federal Funded)(c),budget_paper,BUD-FAE850347A,GROUP-0190,1,1,budget_paper,False
+MASTER-0191,Fifteenth Avenue Upgrade (State and Federal Funded)(c),budget_paper,BUD-FB1DC2209F,GROUP-0191,1,1,budget_paper,False
+MASTER-0192,Rouse Hill Hospital Transport Integration (Planning),budget_paper,BUD-FB8997A946,GROUP-0192,1,1,budget_paper,False
+MASTER-0193,New England Highway Corridor - Priority Intersection Upgrades (State and Federal Funded),budget_paper,BUD-FC96C8B06D,GROUP-0193,1,1,budget_paper,False
+MASTER-0194,Mulgoa Road Stage 2 - Glenmore Parkway to Jeanette Street (State and Federal Funded),budget_paper,BUD-FCAAF33041,GROUP-0194,1,1,budget_paper,False
+MASTER-0195,Hume Highway Heavy Duty Pavement Upgrade,budget_paper,BUD-FE4152BC35,GROUP-0195,1,1,budget_paper,False
+MASTER-0196,Pinch Points (State and Federal Funded),budget_paper,BUD-FE972089E9,GROUP-0196,1,1,budget_paper,False
+MASTER-0197,Almond Street to M1 Princes Motorway,project_register,PRJ-0002,GROUP-0197,2,2,project_register; project_timeline,True
+MASTER-0198,Appin Road safety improvements,project_register,PRJ-0003,GROUP-0198,2,2,project_register; project_timeline,True
+MASTER-0199,Appin Town Centre By-Pass,project_register,PRJ-0004,GROUP-0199,2,2,project_register; project_timeline,True
+MASTER-0200,Australia Avenue intersection upgrade,project_register,PRJ-0005,GROUP-0200,2,2,project_register; project_timeline,True
+MASTER-0201,Avoca Drive upgrade Kincumber,project_register,PRJ-0006,GROUP-0201,2,2,project_register; project_timeline,True
+MASTER-0202,"Bandon Road Upgrade & Extension, Windsor Road to Richmond Road",project_register,PRJ-0007,GROUP-0202,2,2,project_register; project_timeline,True
+MASTER-0203,Barton Highway upgrade - Stage 2,project_register,PRJ-0008,GROUP-0203,2,2,project_register; project_timeline,True
+MASTER-0204,Bells Line of Road safety improvements,project_register,PRJ-0009,GROUP-0204,2,2,project_register; project_timeline,True
+MASTER-0205,Bradfield Metro Link Road - Badgery's Creek Road to Proposed Eastern Ring Road,project_register,PRJ-0010,GROUP-0205,2,2,project_register; project_timeline,True
+MASTER-0206,Bulli Bypass,project_register,PRJ-0011,GROUP-0206,2,2,project_register; project_timeline,True
+MASTER-0207,Burdekin Road and Townson Road upgrade,project_register,PRJ-0012,GROUP-0207,2,2,project_register; project_timeline,True
+MASTER-0208,Bus Service Improvement Program,project_register,PRJ-0013,GROUP-0208,2,2,project_register; project_timeline,True
+MASTER-0209,Cambridge Avenue upgrade,project_register,PRJ-0014,GROUP-0209,2,2,project_register; project_timeline,True
+MASTER-0210,Camden Valley Way,project_register,PRJ-0015,GROUP-0210,2,2,project_register; project_timeline,True
+MASTER-0211,Campbelltown Road,project_register,PRJ-0016,GROUP-0211,2,2,project_register; project_timeline,True
+MASTER-0212,Central Precinct Renewal Program - Main Works,project_register,PRJ-0018,GROUP-0212,2,2,project_register; project_timeline,True
+MASTER-0213,Circular Quay renewal,project_register,PRJ-0019,GROUP-0213,2,2,project_register; project_timeline,True
+MASTER-0214,Cowpasture Road,project_register,PRJ-0020,GROUP-0214,2,2,project_register; project_timeline,True
+MASTER-0215,Dapto Ramps,project_register,PRJ-0021,GROUP-0215,2,2,project_register; project_timeline,True
+MASTER-0216,Devonshire Link Road - Mamre Road Stage 2 to Elizabeth Drive,project_register,PRJ-0022,GROUP-0216,2,2,project_register; project_timeline,True
+MASTER-0217,Devonshire Road - Elizabeth Drive to Bringelly Road,project_register,PRJ-0023,GROUP-0217,2,2,project_register; project_timeline,True
+MASTER-0218,"Elizabeth Drive upgrade-Stage 1, Devonshire Road to Badgerys Creek",project_register,PRJ-0025,GROUP-0218,2,2,project_register; project_timeline,True
+MASTER-0219,Epping Bridge Project,project_register,PRJ-0026,GROUP-0219,2,2,project_register; project_timeline,True
+MASTER-0220,Extend northbound overtaking lane on the approach to New Illawarra Road by approx 800m,project_register,PRJ-0027,GROUP-0220,2,2,project_register; project_timeline,True
+MASTER-0221,Fifteenth Avenue Upgrade,project_register,PRJ-0028,GROUP-0221,2,2,project_register; project_timeline,True
+MASTER-0222,Garfield Road Central,project_register,PRJ-0030,GROUP-0222,2,2,project_register; project_timeline,True
+MASTER-0223,Garfield Road Upgrade West,project_register,PRJ-0031,GROUP-0223,2,2,project_register; project_timeline,True
+MASTER-0224,Garfield Road upgrade East,project_register,PRJ-0032,GROUP-0224,2,2,project_register; project_timeline,True
+MASTER-0225,Glebe Island Bridge,project_register,PRJ-0033,GROUP-0225,2,2,project_register; project_timeline,True
+MASTER-0226,"Goonoo Goonoo Road widening, Tamworth",project_register,PRJ-0034,GROUP-0226,2,2,project_register; project_timeline,True
+MASTER-0227,Gosford Bypass,project_register,PRJ-0035,GROUP-0227,2,2,project_register; project_timeline,True
+MASTER-0228,"Great Western Hwy and Parker St Intersection upgrade, Penrith",project_register,PRJ-0036,GROUP-0228,2,2,project_register; project_timeline,True
+MASTER-0229,Hawkesbury-Nepean Valley Road Resilience Program,project_register,PRJ-0037,GROUP-0229,2,2,project_register; project_timeline,True
+MASTER-0230,Hume Motorway,project_register,PRJ-0040,GROUP-0230,2,2,project_register; project_timeline,True
+MASTER-0231,James Ruse Drive/Hassall Street,project_register,PRJ-0041,GROUP-0231,2,2,project_register; project_timeline,True
+MASTER-0232,Jervis Bay Road to Hawken Road,project_register,PRJ-0042,GROUP-0232,2,2,project_register; project_timeline,True
+MASTER-0233,"John Renshaw Drive upgrade, Black Hill",project_register,PRJ-0043,GROUP-0233,2,2,project_register; project_timeline,True
+MASTER-0234,M1 Pacific Motorway Upgrade between Wahroonga and Beresfield,project_register,PRJ-0044,GROUP-0234,2,2,project_register; project_timeline,True
+MASTER-0235,Maitland Westbound Overpass,project_register,PRJ-0046,GROUP-0235,2,2,project_register; project_timeline,True
+MASTER-0236,Mamre Road Upgrade - Stage 2,project_register,PRJ-0047,GROUP-0236,2,2,project_register; project_timeline,True
+MASTER-0237,"Mandalong Road upgrade, Morisset",project_register,PRJ-0048,GROUP-0237,2,2,project_register; project_timeline,True
+MASTER-0238,"Manns Road Upgrade, Stockyard Place to Narara Creek Road priority intersection upgrades",project_register,PRJ-0049,GROUP-0238,2,2,project_register; project_timeline,True
+MASTER-0239,Menangle Road,project_register,PRJ-0050,GROUP-0239,2,2,project_register; project_timeline,True
+MASTER-0240,Milton/Ulladulla Bypass,project_register,PRJ-0051,GROUP-0240,2,2,project_register; project_timeline,True
+MASTER-0241,Mount Ousley Safety and Reliability,project_register,PRJ-0053,GROUP-0241,2,2,project_register; project_timeline,True
+MASTER-0242,Mulgoa Road Upgrade Stage 5a & 5b,project_register,PRJ-0054,GROUP-0242,2,2,project_register; project_timeline,True
+MASTER-0243,Muswellbrook Bypass,project_register,PRJ-0055,GROUP-0243,2,2,project_register; project_timeline,True
+MASTER-0244,Narooma Bridge,project_register,PRJ-0056,GROUP-0244,2,2,project_register; project_timeline,True
+MASTER-0245,Nelson Bay Road Improvements,project_register,PRJ-0057,GROUP-0245,2,2,project_register; project_timeline,True
+MASTER-0246,Nepean River to Almond Street,project_register,PRJ-0058,GROUP-0246,2,2,project_register; project_timeline,True
+MASTER-0247,New Electric Bus Program - Tranche 2,project_register,PRJ-0061,GROUP-0247,2,2,project_register; project_timeline,True
+MASTER-0248,Newcastle Link Road/Minmi Road intersection upgrade,project_register,PRJ-0062,GROUP-0248,2,2,project_register; project_timeline,True
+MASTER-0249,"Newell Highway, Tichborne grade separation for Inland Rail",project_register,PRJ-0063,GROUP-0249,2,2,project_register; project_timeline,True
+MASTER-0250,"Newell Highway, improve flood mitigation between West Wyalong and Forbes",project_register,PRJ-0064,GROUP-0250,2,2,project_register; project_timeline,True
+MASTER-0251,Nowra Bypass,project_register,PRJ-0065,GROUP-0251,2,2,project_register; project_timeline,True
+MASTER-0252,"Olympic Highway, Harris Gates grade separation for Inland Rail",project_register,PRJ-0066,GROUP-0252,2,2,project_register; project_timeline,True
+MASTER-0253,Oxford Street Revitalisation (previously Oxford Street East Cycleway),project_register,PRJ-0067,GROUP-0253,2,2,project_register; project_timeline,True
+MASTER-0254,"Pacific Highway, Raymond Terrace to Karuah intersection improvements",project_register,PRJ-0069,GROUP-0254,2,2,project_register; project_timeline,True
+MASTER-0255,Picton Bypass,project_register,PRJ-0072,GROUP-0255,2,2,project_register; project_timeline,True
+MASTER-0256,Regional Overnight Sleeper Services,project_register,PRJ-0076,GROUP-0256,2,2,project_register; project_timeline,True
+MASTER-0257,Richmond Road Corridor upgrade,project_register,PRJ-0077,GROUP-0257,2,2,project_register; project_timeline,True
+MASTER-0258,"Sheahan Bridge Upgrade Northbound, Gundagai",project_register,PRJ-0079,GROUP-0258,2,2,project_register; project_timeline,True
+MASTER-0259,Shellharbour Hospital access,project_register,PRJ-0080,GROUP-0259,2,2,project_register; project_timeline,True
+MASTER-0260,South West Sydney Rail Extensions Final Business Case,project_register,PRJ-0081,GROUP-0260,2,2,project_register; project_timeline,True
+MASTER-0261,Spring Farm Parkway Stage 2,project_register,PRJ-0082,GROUP-0261,2,2,project_register; project_timeline,True
+MASTER-0262,Stacey Street upgrade,project_register,PRJ-0083,GROUP-0262,2,2,project_register; project_timeline,True
+MASTER-0263,Sydney Metro West - Parramatta Integrated Station,project_register,PRJ-0085,GROUP-0263,2,2,project_register; project_timeline,True
+MASTER-0264,Sydney Metro West - Pyrmont Integrated Station,project_register,PRJ-0086,GROUP-0264,2,2,project_register; project_timeline,True
+MASTER-0265,Sydney Metro West - Sydney Olympic Park Integrated Station,project_register,PRJ-0087,GROUP-0265,2,2,project_register; project_timeline,True
+MASTER-0266,Sydney to Canberra Rail Corridor Upgrade,project_register,PRJ-0088,GROUP-0266,2,2,project_register; project_timeline,True
+MASTER-0267,"The Northern Road Upgrade, Borrowdale Way to Londonderry Road",project_register,PRJ-0091,GROUP-0267,2,2,project_register; project_timeline,True
+MASTER-0268,Wagga Wagga Freight Bypass,project_register,PRJ-0093,GROUP-0268,2,2,project_register; project_timeline,True
+MASTER-0269,Werrington Arterial Stage 2,project_register,PRJ-0094,GROUP-0269,2,2,project_register; project_timeline,True
+MASTER-0270,Rocky Cut realignment,project_timeline,TFNSW-0016,GROUP-0270,1,1,project_timeline,False
+MASTER-0271,"Murray River, Swan Hill bridge replacement",project_timeline,TFNSW-0028,GROUP-0271,1,1,project_timeline,False
+MASTER-0272,New Electric Bus Program Tranche 1,project_timeline,TFNSW-0048,GROUP-0272,1,1,project_timeline,False
+MASTER-0273,Appin Road and St Johns Road Intersection Upgrade,project_timeline,TFNSW-0073,GROUP-0273,1,1,project_timeline,False
+MASTER-0274,"The Horsley Dr/Polding St, Fairfield",project_timeline,TFNSW-0094,GROUP-0274,1,1,project_timeline,False
+MASTER-0275,Dobroyd Parade Pedestrian Bridge,project_timeline,TFNSW-0105,GROUP-0275,1,1,project_timeline,False
+MASTER-0276,Flushcombe Rd / Bungarribee Rd Intersection Upgrade and Francis Street Upgrade,project_timeline,TFNSW-0106,GROUP-0276,1,1,project_timeline,False
+MASTER-0277,Greater Sydney Cycling and Micromobility Investment Program,project_timeline,TFNSW-0108,GROUP-0277,1,1,project_timeline,False
+MASTER-0278,Hurstville Pedestrian Bridge,project_timeline,TFNSW-0109,GROUP-0278,1,1,project_timeline,False
+MASTER-0279,Kosciuszko Rd and Alpine Way (Intersection Upgrade),project_timeline,TFNSW-0110,GROUP-0279,1,1,project_timeline,False
+MASTER-0280,M4 Improvement Works - Coleman to Church,project_timeline,TFNSW-0111,GROUP-0280,1,1,project_timeline,False
+MASTER-0281,"McEvoy Street and Botany Road, Waterloo Intersection Improvements",project_timeline,TFNSW-0112,GROUP-0281,1,1,project_timeline,False
+MASTER-0282,North Sydney Active Transport,project_timeline,TFNSW-0113,GROUP-0282,1,1,project_timeline,False
+MASTER-0283,Parramatta to Sydney Foreshore link,project_timeline,TFNSW-0114,GROUP-0283,1,1,project_timeline,False
+MASTER-0284,Princes Hwy/Waratah St Intrs-Kirrawee,project_timeline,TFNSW-0115,GROUP-0284,1,1,project_timeline,False
+MASTER-0285,Safety Barrier Program,project_timeline,TFNSW-0116,GROUP-0285,1,1,project_timeline,False
+MASTER-0286,Shellharbour Hospital Shared User Path,project_timeline,TFNSW-0117,GROUP-0286,1,1,project_timeline,False
+MASTER-0287,Strategic Cycleway Corridors,project_timeline,TFNSW-0118,GROUP-0287,1,1,project_timeline,False
+MASTER-0288,Sutherland to Cronulla Active Transport Link (Stage 2B West),project_timeline,TFNSW-0119,GROUP-0288,1,1,project_timeline,False
+MASTER-0289,Sutherland to Cronulla Active Transport Link (Stage 3),project_timeline,TFNSW-0120,GROUP-0289,1,1,project_timeline,False
+MASTER-0290,Sydney Park Junction,project_timeline,TFNSW-0121,GROUP-0290,1,1,project_timeline,False
+MASTER-0291,Thurgoona Drive Intersection Upgrade,project_timeline,TFNSW-0122,GROUP-0291,1,1,project_timeline,False
+MASTER-0292,"WSRB, Package 4; Bradfield Layover",project_timeline,TFNSW-0123,GROUP-0292,1,1,project_timeline,False
