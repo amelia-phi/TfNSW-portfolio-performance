@@ -261,3 +261,144 @@ def add_source_record_keys(
 
     return result
 
+def assign_match_groups(
+    source_records: pd.DataFrame,
+    accepted_matches: pd.DataFrame,
+) -> pd.DataFrame:
+    """Assign every source project to a connected match group."""
+
+    records = add_source_record_keys(
+        source_records
+    )
+
+    record_keys = set(
+        records["source_record_key"]
+    )
+
+    # Initially, every record is its own parent.
+    parent = {
+        record_key: record_key
+        for record_key in record_keys
+    }
+
+    def find(record_key: str) -> str:
+        """Find the current root of a project group."""
+
+        while parent[record_key] != record_key:
+            parent[record_key] = parent[
+                parent[record_key]
+            ]
+
+            record_key = parent[record_key]
+
+        return record_key
+
+    def union(
+        left_key: str,
+        right_key: str,
+    ) -> None:
+        """Connect two project groups."""
+
+        left_root = find(left_key)
+        right_root = find(right_key)
+
+        if left_root == right_root:
+            return
+
+        # Always retain the alphabetically smaller root.
+        # This makes the result deterministic.
+        preferred_root = min(
+            left_root,
+            right_root,
+        )
+
+        other_root = max(
+            left_root,
+            right_root,
+        )
+
+        parent[other_root] = preferred_root
+
+    required_match_columns = {
+        "left_source_dataset",
+        "left_source_project_id",
+        "right_source_dataset",
+        "right_source_project_id",
+    }
+
+    missing_columns = (
+        required_match_columns.difference(
+            accepted_matches.columns
+        )
+    )
+
+    if missing_columns:
+        raise ValueError(
+            "Missing accepted-match columns: "
+            + ", ".join(sorted(missing_columns))
+        )
+
+    for match in accepted_matches.to_dict(
+        orient="records"
+    ):
+        left_key = (
+            f"{match['left_source_dataset']}"
+            f"::{match['left_source_project_id']}"
+        )
+
+        right_key = (
+            f"{match['right_source_dataset']}"
+            f"::{match['right_source_project_id']}"
+        )
+
+        unknown_keys = {
+            left_key,
+            right_key,
+        }.difference(record_keys)
+
+        if unknown_keys:
+            raise ValueError(
+                "Accepted match contains unknown "
+                "source-record keys: "
+                + ", ".join(sorted(unknown_keys))
+            )
+
+        union(
+            left_key,
+            right_key,
+        )
+
+    records["match_group_root"] = (
+        records["source_record_key"].map(find)
+    )
+
+    unique_roots = sorted(
+        records["match_group_root"].unique()
+    )
+
+    group_id_map = {
+        root: f"GROUP-{number:04d}"
+        for number, root in enumerate(
+            unique_roots,
+            start=1,
+        )
+    }
+
+    records["match_group_id"] = (
+        records["match_group_root"]
+        .map(group_id_map)
+    )
+
+    group_sizes = (
+        records.groupby("match_group_id")
+        ["source_record_key"]
+        .transform("size")
+    )
+
+    records["match_group_size"] = group_sizes
+
+    records["has_cross_source_match"] = (
+        records["match_group_size"] > 1
+    )
+
+    return records
