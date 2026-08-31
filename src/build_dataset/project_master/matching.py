@@ -5,6 +5,7 @@ from .decisions import (
     VALID_DECISIONS,
     create_decision_template,
     select_accepted_matches,
+    synchronise_decisions,
     validate_match_decisions,
 )
 from .grouping import (
@@ -22,5 +23,6 @@ __all__ = [
     "build_source_record_key",
     "create_decision_template",
     "select_accepted_matches",
+    "synchronise_decisions",
     "validate_match_decisions",
 ]

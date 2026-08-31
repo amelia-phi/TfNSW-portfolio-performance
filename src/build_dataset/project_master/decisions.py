@@ -202,3 +202,42 @@ def select_accepted_matches(
         ignore_index=True,
         sort=False,
     )
+
+
+def synchronise_decisions(
+    template: pd.DataFrame,
+    existing: pd.DataFrame,
+    candidates: pd.DataFrame,
+) -> pd.DataFrame:
+    """Preserve valid manual decisions in a refreshed template."""
+
+    validated = validate_match_decisions(
+        existing,
+        candidates,
+    )
+    retained = validated[
+        [
+            "candidate_key",
+            "decision",
+            "reviewer_notes",
+        ]
+    ].copy()
+    refreshed = template.drop(
+        columns=[
+            "decision",
+            "reviewer_notes",
+        ]
+    ).merge(
+        retained,
+        on="candidate_key",
+        how="left",
+        validate="one_to_one",
+    )
+    refreshed["decision"] = (
+        refreshed["decision"].fillna("pending")
+    )
+    refreshed["reviewer_notes"] = (
+        refreshed["reviewer_notes"].fillna("")
+    )
+
+    return refreshed[DECISION_COLUMNS]

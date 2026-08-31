@@ -1,0 +1,419 @@
+source_dataset,source_project_id,source_project_name,source_agency,source_location,source_group,source_url,source_record_count,normalised_project_name
+project_register,PRJ-0001,Airport Precinct Safety and Access Program (APSAP),,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/airport-precinct-safety-and-access-program,1,airport precinct safety and access program apsap
+project_register,PRJ-0002,Almond Street to M1 Princes Motorway,,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/picton-road-projects/picton-road-upgrade/index.html,1,almond street to m1 princes motorway
+project_register,PRJ-0003,Appin Road safety improvements,,,Pipeline,https://roads-waterways.transport.nsw.gov.au/projects/appin-road-improvements/index.html,1,appin road safety improvements
+project_register,PRJ-0004,Appin Town Centre By-Pass,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/south-west-roads-planning,1,appin town centre by pass
+project_register,PRJ-0005,Australia Avenue intersection upgrade,,,Pipeline,https://roads-waterways.transport.nsw.gov.au/projects/homebush-bay-drive-australia-ave-upgrade/index.html,1,australia avenue intersection upgrade
+project_register,PRJ-0006,Avoca Drive upgrade Kincumber,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/avoca-drive-upgrade-at-kincumber,1,avoca drive upgrade kincumber
+project_register,PRJ-0007,"Bandon Road Upgrade & Extension, Windsor Road to Richmond Road",,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/bandon-road-north-west-growth-area,1,bandon road upgrade and extension windsor road to richmond road
+project_register,PRJ-0008,Barton Highway upgrade - Stage 2,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/barton-highway-corridor-upgrade-stage-2-barton-highway,1,barton highway upgrade stage 2
+project_register,PRJ-0009,Bells Line of Road safety improvements,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/bells-line-of-road-safety-improvements,1,bells line of road safety improvements
+project_register,PRJ-0010,Bradfield Metro Link Road - Badgery's Creek Road to Proposed Eastern Ring Road,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/bradfield-precinct-priority-roads,1,bradfield metro link road badgery s creek road to proposed eastern ring road
+project_register,PRJ-0011,Bulli Bypass,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/bulli-bypass,1,bulli bypass
+project_register,PRJ-0012,Burdekin Road and Townson Road upgrade,,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/north-west-growth-centre-strategy/townson-burdekin-road.html,1,burdekin road and townson road upgrade
+project_register,PRJ-0013,Bus Service Improvement Program,,,In Planning,https://www.transport.nsw.gov.au/,1,bus service improvement program
+project_register,PRJ-0014,Cambridge Avenue upgrade,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/cambridge-avenue-glenfield-upgrade,1,cambridge avenue upgrade
+project_register,PRJ-0015,Camden Valley Way,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/south-west-roads-planning,1,camden valley way
+project_register,PRJ-0016,Campbelltown Road,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/south-west-roads-planning,1,campbelltown road
+project_register,PRJ-0017,Castlereagh Connection,,,In Planning,https://www.transport.nsw.gov.au/,1,castlereagh connection
+project_register,PRJ-0018,Central Precinct Renewal Program - Main Works,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/central-precinct-renewal-program,1,central precinct renewal program main works
+project_register,PRJ-0019,Circular Quay renewal,,,In Planning,https://www.transport.nsw.gov.au/,1,circular quay renewal
+project_register,PRJ-0020,Cowpasture Road,,,In Planning,https://www.transport.nsw.gov.au/,1,cowpasture road
+project_register,PRJ-0021,Dapto Ramps,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/south-facing-ramps-at-dapto,1,dapto ramps
+project_register,PRJ-0022,Devonshire Link Road - Mamre Road Stage 2 to Elizabeth Drive,,,In Planning,https://www.transport.nsw.gov.au/,1,devonshire link road mamre road stage 2 to elizabeth drive
+project_register,PRJ-0023,Devonshire Road - Elizabeth Drive to Bringelly Road,,,In Planning,https://www.transport.nsw.gov.au/,1,devonshire road elizabeth drive to bringelly road
+project_register,PRJ-0024,Eastern Ring Road and Badgerys Creek Road (South) - Elizabeth Drive to The Northern Road,,,In Planning,https://www.transport.nsw.gov.au/,1,eastern ring road and badgerys creek road south elizabeth drive to the northern road
+project_register,PRJ-0025,"Elizabeth Drive upgrade-Stage 1, Devonshire Road to Badgerys Creek",,,Pipeline,https://roads-waterways.transport.nsw.gov.au/projects/elizabeth-drive-upgrade/index.html,1,elizabeth drive upgrade stage 1 devonshire road to badgerys creek
+project_register,PRJ-0026,Epping Bridge Project,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/epping-bridge-project,1,epping bridge project
+project_register,PRJ-0027,Extend northbound overtaking lane on the approach to New Illawarra Road by approx 800m,,,Pipeline,https://www.transport.nsw.gov.au/,1,extend northbound overtaking lane on the approach to new illawarra road by approx 800m
+project_register,PRJ-0028,Fifteenth Avenue Upgrade,,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/fifteenth-avenue-transit-corridor,1,fifteenth avenue upgrade
+project_register,PRJ-0029,Future Fleet Program,,,In Planning,https://www.transport.nsw.gov.au/,1,future fleet program
+project_register,PRJ-0030,Garfield Road Central,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/garfield-road-central,1,garfield road central
+project_register,PRJ-0031,Garfield Road Upgrade West,,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/north-west-growth-centre-strategy/garfield-road.html,1,garfield road upgrade west
+project_register,PRJ-0032,Garfield Road upgrade East,,,Pipeline,https://roads-waterways.transport.nsw.gov.au/projects/north-west-growth-centre-strategy/garfield-road.html,1,garfield road upgrade east
+project_register,PRJ-0033,Glebe Island Bridge,,,In Planning,https://www.transport.nsw.gov.au/gib,1,glebe island bridge
+project_register,PRJ-0034,"Goonoo Goonoo Road widening, Tamworth",,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/goonoo-goonoo-road-tamworth,1,goonoo goonoo road widening tamworth
+project_register,PRJ-0035,Gosford Bypass,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/gosford-bypass,1,gosford bypass
+project_register,PRJ-0036,"Great Western Hwy and Parker St Intersection upgrade, Penrith",,,In Planning,https://www.transport.nsw.gov.au/,1,great western hwy and parker st intersection upgrade penrith
+project_register,PRJ-0037,Hawkesbury-Nepean Valley Road Resilience Program,,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/flood-resilience-program/index.html,1,hawkesbury nepean valley road resilience program
+project_register,PRJ-0038,"Heathcote Road, The Avenue to Princes Highway",,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/heathcote-road-upgrade/index.html,1,heathcote road the avenue to princes highway
+project_register,PRJ-0039,Henry Lawson Drive Stage 1B,,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/henry-lawson-drive-upgrade-stage-1b,1,henry lawson drive stage 1b
+project_register,PRJ-0040,Hume Motorway,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/south-west-roads-planning,1,hume motorway
+project_register,PRJ-0041,James Ruse Drive/Hassall Street,,,In Planning,https://www.transport.nsw.gov.au/,1,james ruse drive hassall street
+project_register,PRJ-0042,Jervis Bay Road to Hawken Road,,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/princes-highway/jervis-bay-road-to-sussex-inlet-upgrade.html,1,jervis bay road to hawken road
+project_register,PRJ-0043,"John Renshaw Drive upgrade, Black Hill",,,In Planning,https://investment.infrastructure.gov.au/projects/117864-21nsw-np,1,john renshaw drive upgrade black hill
+project_register,PRJ-0044,M1 Pacific Motorway Upgrade between Wahroonga and Beresfield,,,In Planning,https://www.transport.nsw.gov.au/,1,m1 pacific motorway upgrade between wahroonga and beresfield
+project_register,PRJ-0045,Macquarie Park Precinct and Bus Interchange,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/macquarie-park-precinct-and-bus-interchange,1,macquarie park precinct and bus interchange
+project_register,PRJ-0046,Maitland Westbound Overpass,,,In Planning,https://www.transport.nsw.gov.au/,1,maitland westbound overpass
+project_register,PRJ-0047,Mamre Road Upgrade - Stage 2,,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/mamre-road-upgrade-%E2%80%93-between-erskine-park-road-erskine-park-and-kerrs,1,mamre road upgrade stage 2
+project_register,PRJ-0048,"Mandalong Road upgrade, Morisset",,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/mandalong-road-upgrade-morisset,1,mandalong road upgrade morisset
+project_register,PRJ-0049,"Manns Road Upgrade, Stockyard Place to Narara Creek Road priority intersection upgrades",,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/west-gosford-to-narara/index.html,1,manns road upgrade stockyard place to narara creek road priority intersection upgrades
+project_register,PRJ-0050,Menangle Road,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/menangle-road-upgrade,1,menangle road
+project_register,PRJ-0051,Milton/Ulladulla Bypass,,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/milton-ulladulla-bypass/index.html,1,milton ulladulla bypass
+project_register,PRJ-0052,"Mona Vale Road West upgrade, McCarrs Creek Road to Powder Works Road",,,Pipeline,https://roads-waterways.transport.nsw.gov.au/projects/mona-vale-road/mvrwest/index.html,1,mona vale road west upgrade mccarrs creek road to powder works road
+project_register,PRJ-0053,Mount Ousley Safety and Reliability,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/mount-ousley-safety-and-reliability-improvements,1,mount ousley safety and reliability
+project_register,PRJ-0054,Mulgoa Road Upgrade Stage 5a & 5b,,,In Planning,https://www.transport.nsw.gov.au/,1,mulgoa road upgrade stage 5a and 5b
+project_register,PRJ-0055,Muswellbrook Bypass,,,Pipeline,https://roads-waterways.transport.nsw.gov.au/projects/new-england-highway/muswellbrook-bypass.html,1,muswellbrook bypass
+project_register,PRJ-0056,Narooma Bridge,,,In Planning,https://www.transport.nsw.gov.au/,1,narooma bridge
+project_register,PRJ-0057,Nelson Bay Road Improvements,,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/nelson-bay-road/index.html,1,nelson bay road improvements
+project_register,PRJ-0058,Nepean River to Almond Street,,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/picton-road-projects/picton-road-upgrade/index.html,1,nepean river to almond street
+project_register,PRJ-0059,New Bus Services for Western Sydney,,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/new-bus-services-for-western-sydney,1,new bus services for western sydney
+project_register,PRJ-0060,New Electric Bus Program,,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/zero-emission-buses,1,new electric bus program
+project_register,PRJ-0061,New Electric Bus Program - Tranche 2,,,In Planning,https://www.transport.nsw.gov.au/,1,new electric bus program tranche 2
+project_register,PRJ-0062,Newcastle Link Road/Minmi Road intersection upgrade,,,In Planning,https://www.transport.nsw.gov.au/,1,newcastle link road minmi road intersection upgrade
+project_register,PRJ-0063,"Newell Highway, Tichborne grade separation for Inland Rail",,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/tichborne-grade-separation,1,newell highway tichborne grade separation for inland rail
+project_register,PRJ-0064,"Newell Highway, improve flood mitigation between West Wyalong and Forbes",,,In Planning,https://roads-waterways.transport.nsw.gov.au/projects/newell-highway/west-wyalong-flood-immunity.html,1,newell highway improve flood mitigation between west wyalong and forbes
+project_register,PRJ-0065,Nowra Bypass,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/nowra-bypass-and-transport-improvements,1,nowra bypass
+project_register,PRJ-0066,"Olympic Highway, Harris Gates grade separation for Inland Rail",,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/harris-gates-grade-separation,1,olympic highway harris gates grade separation for inland rail
+project_register,PRJ-0067,Oxford Street Revitalisation (previously Oxford Street East Cycleway),,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/oxford-street-east-cycleway,1,oxford street revitalisation previously oxford street east cycleway
+project_register,PRJ-0068,"Pacific Highway, Harrington Road / Coopernook Road interchange",,,Pipeline,https://www.transport.nsw.gov.au/projects/current-projects/pacific-highway-harrington-road-interchange,1,pacific highway harrington road coopernook road interchange
+project_register,PRJ-0069,"Pacific Highway, Raymond Terrace to Karuah intersection improvements",,,In Planning,https://www.transport.nsw.gov.au/,1,pacific highway raymond terrace to karuah intersection improvements
+project_register,PRJ-0070,"Pacific Highway, Wyong Town Centre",,,Pipeline,https://roads-waterways.transport.nsw.gov.au/projects/pacific-highway/wyong-town-centre-upgrade/index.html,1,pacific highway wyong town centre
+project_register,PRJ-0071,Parramatta Light Rail Stage 2 Main Works,,,Pipeline,https://www.nsw.gov.au/driving-boating-and-transport/projects/parramatta-light-rail/stage-2,1,parramatta light rail stage 2 main works
+project_register,PRJ-0072,Picton Bypass,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/picton-bypass,1,picton bypass
+project_register,PRJ-0073,Regional Corridors Upgrade Program – Euston to Tocumwal,,,In Planning,https://www.transport.nsw.gov.au/,1,regional corridors upgrade program euston to tocumwal
+project_register,PRJ-0074,Regional Corridors Upgrade Program – Muswellbrook to Armidale,,,In Planning,https://www.transport.nsw.gov.au/,1,regional corridors upgrade program muswellbrook to armidale
+project_register,PRJ-0075,Regional Corridors Upgrade Program – Newcastle to Dubbo,,,In Planning,https://www.transport.nsw.gov.au/,1,regional corridors upgrade program newcastle to dubbo
+project_register,PRJ-0076,Regional Overnight Sleeper Services,,,In Planning,https://www.transport.nsw.gov.au/,1,regional overnight sleeper services
+project_register,PRJ-0077,Richmond Road Corridor upgrade,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/north-west-growth-area,1,richmond road corridor upgrade
+project_register,PRJ-0078,Safe Accessible Transport,,,Pipeline,https://www.transport.nsw.gov.au/projects/programs/safe-accessible-transport-program,1,safe accessible transport
+project_register,PRJ-0079,"Sheahan Bridge Upgrade Northbound, Gundagai",,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/sheahan-bridge-upgrade,1,sheahan bridge upgrade northbound gundagai
+project_register,PRJ-0080,Shellharbour Hospital access,,,In Planning,https://www.transport.nsw.gov.au/,1,shellharbour hospital access
+project_register,PRJ-0081,South West Sydney Rail Extensions Final Business Case,,,In Planning,https://www.transport.nsw.gov.au/,1,south west sydney rail extensions final business case
+project_register,PRJ-0082,Spring Farm Parkway Stage 2,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/spring-farm-parkway-menangle-stage-2,1,spring farm parkway stage 2
+project_register,PRJ-0083,Stacey Street upgrade,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/stacey-st-and-hume-highway-bankstown-upgrade,1,stacey street upgrade
+project_register,PRJ-0084,Sydney Metro - Western Sydney Airport - Northern Extension Final Business Case,,,In Planning,https://www.sydneymetro.info/planning-future-extensions,1,sydney metro western sydney airport northern extension final business case
+project_register,PRJ-0085,Sydney Metro West - Parramatta Integrated Station,,,Pipeline,https://www.sydneymetro.info/station/parramatta-metro-station,1,sydney metro west parramatta integrated station
+project_register,PRJ-0086,Sydney Metro West - Pyrmont Integrated Station,,,Pipeline,https://www.sydneymetro.info/station/pyrmont-station,1,sydney metro west pyrmont integrated station
+project_register,PRJ-0087,Sydney Metro West - Sydney Olympic Park Integrated Station,,,Pipeline,https://www.sydneymetro.info/station/sydney-olympic-park-metro-station,1,sydney metro west sydney olympic park integrated station
+project_register,PRJ-0088,Sydney to Canberra Rail Corridor Upgrade,,,In Planning,https://www.transport.nsw.gov.au/,1,sydney to canberra rail corridor upgrade
+project_register,PRJ-0089,Terrigal Drive Upgrade,,,In Planning,https://www.transport.nsw.gov.au/,1,terrigal drive upgrade
+project_register,PRJ-0090,"The Horsley Drive, M7 Motorway to Cowpasture Road",,,Pipeline,https://roads-waterways.transport.nsw.gov.au/projects/the-horsley-drive-upgrade/index.html,1,the horsley drive m7 motorway to cowpasture road
+project_register,PRJ-0091,"The Northern Road Upgrade, Borrowdale Way to Londonderry Road",,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/northern-road-upgrade-between-borrowdale-way-jordan-springs-to,1,the northern road upgrade borrowdale way to londonderry road
+project_register,PRJ-0092,Thornton bridge duplication,,,In Planning,https://www.transport.nsw.gov.au/,1,thornton bridge duplication
+project_register,PRJ-0093,Wagga Wagga Freight Bypass,,,In Planning,https://www.transport.nsw.gov.au/,1,wagga wagga freight bypass
+project_register,PRJ-0094,Werrington Arterial Stage 2,,,In Planning,https://www.transport.nsw.gov.au/news-and-events/media-releases/3-million-to-start-planning-werrington-arterial-stage-2,1,werrington arterial stage 2
+project_register,PRJ-0095,Western Sydney Freight Line and Intermodal Terminal  - Stage 1 Full Business Case,,,In Planning,https://www.transport.nsw.gov.au/corridors/wsfl,1,western sydney freight line and intermodal terminal stage 1 full business case
+project_register,PRJ-0096,Western Sydney Heavy Vehicle Rest Area,,,Pipeline,https://www.transport.nsw.gov.au/operations/freight-hub/heavy-vehicle-rest-stopping-improvements,1,western sydney heavy vehicle rest area
+project_register,PRJ-0097,Windsor Road Upgrade at Rouse Hill,,,Pipeline,https://www.transport.nsw.gov.au/,1,windsor road upgrade at rouse hill
+project_register,PRJ-0098,Woollahra Station Activation,,,In Planning,https://www.transport.nsw.gov.au/projects/current-projects/woollahra-station-activation,1,woollahra station activation
+project_timeline,TFNSW-0001,Bells Line of Road Safety Improvements,,,Bells Line of Road,,1,bells line of road safety improvements
+project_timeline,TFNSW-0002,Castlereagh Connection,,,Bells Line of Road,,1,castlereagh connection
+project_timeline,TFNSW-0003,"Avoca Drive Upgrade, Kincumber",,,Central Coast roads,,4,avoca drive upgrade kincumber
+project_timeline,TFNSW-0004,"Manns Road Upgrade, Stockyard Place to Narara Creek Road Priority Intersection Upgrades",,,Central Coast roads,,1,manns road upgrade stockyard place to narara creek road priority intersection upgrades
+project_timeline,TFNSW-0005,"Pacific Highway, Wyong Town Centre",,,Central Coast roads,,3,pacific highway wyong town centre
+project_timeline,TFNSW-0006,Terrigal Drive Upgrade,,,Central Coast roads,,2,terrigal drive upgrade
+project_timeline,TFNSW-0007,Gosford Bypass,,,Hunter roads,,1,gosford bypass
+project_timeline,TFNSW-0008,"John Renshaw Drive upgrade, Black Hill",,,Hunter roads,,3,john renshaw drive upgrade black hill
+project_timeline,TFNSW-0009,"Mandalong Road upgrade, Morisset",,,Hunter roads,,3,mandalong road upgrade morisset
+project_timeline,TFNSW-0010,Nelson Bay Road Improvements,,,Hunter roads,,3,nelson bay road improvements
+project_timeline,TFNSW-0011,Newcastle Link Road/Minmi Road intersection upgrade,,,Hunter roads,,5,newcastle link road minmi road intersection upgrade
+project_timeline,TFNSW-0012,Thornton bridge duplication,,,Hunter roads,,1,thornton bridge duplication
+project_timeline,TFNSW-0013,"Goonoo Goonoo Road widening, Tamworth",,,New England Highway,,3,goonoo goonoo road widening tamworth
+project_timeline,TFNSW-0014,Maitland Westbound Overpass,,,New England Highway,,2,maitland westbound overpass
+project_timeline,TFNSW-0015,Muswellbrook Bypass,,,New England Highway,,3,muswellbrook bypass
+project_timeline,TFNSW-0016,Rocky Cut realignment,,,New England Highway,,1,rocky cut realignment
+project_timeline,TFNSW-0017,Almond Street to M1 Princes Motorway,,,Picton Road Upgrade Program,,1,almond street to m1 princes motorway
+project_timeline,TFNSW-0018,Nepean River to Almond Street,,,Picton Road Upgrade Program,,1,nepean river to almond street
+project_timeline,TFNSW-0019,Bulli Bypass,,,Princes Highway,,1,bulli bypass
+project_timeline,TFNSW-0020,Dapto Ramps,,,Princes Highway,,1,dapto ramps
+project_timeline,TFNSW-0021,Jervis Bay Road to Hawken Road,,,Princes Highway,,3,jervis bay road to hawken road
+project_timeline,TFNSW-0022,Milton/Ulladulla Bypass,,,Princes Highway,,4,milton ulladulla bypass
+project_timeline,TFNSW-0023,Mount Ousley Safety and Reliability,,,Princes Highway,,1,mount ousley safety and reliability
+project_timeline,TFNSW-0024,Narooma bridge,,,Princes Highway,,1,narooma bridge
+project_timeline,TFNSW-0025,Nowra Bypass,,,Princes Highway,,1,nowra bypass
+project_timeline,TFNSW-0026,Barton Highway Upgrade - Stage 2,,,Regional NSW major road and bridge upgrades,,3,barton highway upgrade stage 2
+project_timeline,TFNSW-0027,M1 Pacific Motorway Upgrade between Wahroonga and Beresfield,,,Regional NSW major road and bridge upgrades,,1,m1 pacific motorway upgrade between wahroonga and beresfield
+project_timeline,TFNSW-0028,"Murray River, Swan Hill bridge replacement",,,Regional NSW major road and bridge upgrades,,2,murray river swan hill bridge replacement
+project_timeline,TFNSW-0029,"Newell Highway, Tichborne grade separation for Inland Rail",,,Regional NSW major road and bridge upgrades,,1,newell highway tichborne grade separation for inland rail
+project_timeline,TFNSW-0030,"Newell Highway, improve flood mitigation between West Wyalong and Forbes - July November",,,Regional NSW major road and bridge upgrades,,4,newell highway improve flood mitigation between west wyalong and forbes july november
+project_timeline,TFNSW-0031,"Olympic Highway, Harris Gates grade separation for Inland Rail",,,Regional NSW major road and bridge upgrades,,1,olympic highway harris gates grade separation for inland rail
+project_timeline,TFNSW-0032,"Pacific Highway, Harrington Road / Coopernook Road interchange",,,Regional NSW major road and bridge upgrades,,2,pacific highway harrington road coopernook road interchange
+project_timeline,TFNSW-0033,"Pacific Highway, Raymond Terrace to Karuah intersection improvements",,,Regional NSW major road and bridge upgrades,,1,pacific highway raymond terrace to karuah intersection improvements
+project_timeline,TFNSW-0034,Picton Bypass,,,Regional NSW major road and bridge upgrades,,2,picton bypass
+project_timeline,TFNSW-0035,Regional Corridors Upgrade Program – Euston to Tocumwal,,,Regional NSW major road and bridge upgrades,,1,regional corridors upgrade program euston to tocumwal
+project_timeline,TFNSW-0036,Regional Corridors Upgrade Program – Muswellbrook to Armidale,,,Regional NSW major road and bridge upgrades,,1,regional corridors upgrade program muswellbrook to armidale
+project_timeline,TFNSW-0037,Regional Corridors Upgrade Program – Newcastle to Dubbo,,,Regional NSW major road and bridge upgrades,,1,regional corridors upgrade program newcastle to dubbo
+project_timeline,TFNSW-0038,"Sheahan Bridge Upgrade Northbound, Gundagai",,,Regional NSW major road and bridge upgrades,,2,sheahan bridge upgrade northbound gundagai
+project_timeline,TFNSW-0039,Shellharbour Hospital access,,,Regional NSW major road and bridge upgrades,,1,shellharbour hospital access
+project_timeline,TFNSW-0040,Wagga Wagga Freight Bypass,,,Regional NSW major road and bridge upgrades,,1,wagga wagga freight bypass
+project_timeline,TFNSW-0041,Safe Accessible Transport,,,Accessibility,,1,safe accessible transport
+project_timeline,TFNSW-0042,Woollahra Station Activation,,,Accessibility,,1,woollahra station activation
+project_timeline,TFNSW-0043,Central Precinct Renewal Program - Main Works,,,Eastern Harbour City,,1,central precinct renewal program main works
+project_timeline,TFNSW-0044,Circular Quay Renewal,,,Eastern Harbour City,,1,circular quay renewal
+project_timeline,TFNSW-0045,Bus Service Improvement Program,,,Buses,,1,bus service improvement program
+project_timeline,TFNSW-0046,Macquarie Park Precinct and Bus Interchange,,,Buses,,2,macquarie park precinct and bus interchange
+project_timeline,TFNSW-0047,New Bus Services for Western Sydney,,,Buses,,3,new bus services for western sydney
+project_timeline,TFNSW-0048,New Electric Bus Program Tranche 1,,,Buses,,1,new electric bus program tranche 1
+project_timeline,TFNSW-0049,New Electric Bus Program Tranche 2,,,Buses,,2,new electric bus program tranche 2
+project_timeline,TFNSW-0050,Sydney Fish Markets Ferry Wharf,,,Eastern Harbour City,,2,sydney fish markets ferry wharf
+project_timeline,TFNSW-0051,Parramatta Light Rail Stage 2 Main Works,,,Light Rail,,2,parramatta light rail stage 2 main works
+project_timeline,TFNSW-0052,South West Sydney Rail Extensions Final Business Case,,,Rail,,2,south west sydney rail extensions final business case
+project_timeline,TFNSW-0053,Sydney to Canberra Rail Corridor Upgrade,,,Rail,,1,sydney to canberra rail corridor upgrade
+project_timeline,TFNSW-0054,Western Sydney Freight Line and Intermodal Terminal - Stage 1 Full Business Case,,,Rail,,2,western sydney freight line and intermodal terminal stage 1 full business case
+project_timeline,TFNSW-0055,Sydney Metro - Western Sydney Airport - Northern Extension Final Business Case,,,Sydney Metro,,1,sydney metro western sydney airport northern extension final business case
+project_timeline,TFNSW-0056,Sydney Metro West - Parramatta Integrated Station,,,Sydney Metro West,,1,sydney metro west parramatta integrated station
+project_timeline,TFNSW-0057,Sydney Metro West - Pyrmont Integrated Station,,,Sydney Metro West,,2,sydney metro west pyrmont integrated station
+project_timeline,TFNSW-0058,Sydney Metro West - Sydney Olympic Park Integrated Station,,,Sydney Metro West,,2,sydney metro west sydney olympic park integrated station
+project_timeline,TFNSW-0059,Appin Road Safety Improvements,,,Central River City,,2,appin road safety improvements
+project_timeline,TFNSW-0060,Appin Town Centre By- Pass,,,Central River City,,2,appin town centre by pass
+project_timeline,TFNSW-0061,Australia Avenue intersection upgrade,,,Central River City,,2,australia avenue intersection upgrade
+project_timeline,TFNSW-0062,Henry Lawson Drive Stage 1B,,,Central River City,,2,henry lawson drive stage 1b
+project_timeline,TFNSW-0063,Hume Motorway,,,Central River City,,2,hume motorway
+project_timeline,TFNSW-0064,James Ruse Drive/Hassall Street,,,Central River City,,1,james ruse drive hassall street
+project_timeline,TFNSW-0065,Menangle Road,,,Central River City,,2,menangle road
+project_timeline,TFNSW-0066,Spring Farm Parkway Stage 2,,,Central River City,,2,spring farm parkway stage 2
+project_timeline,TFNSW-0067,Stacey Street Upgrade,,,Central River City,,1,stacey street upgrade
+project_timeline,TFNSW-0068,Extend northbound overtaking lane on the approach to New Illawarra Road by approx 800m,,,Eastern Harbour City,,2,extend northbound overtaking lane on the approach to new illawarra road by approx 800m
+project_timeline,TFNSW-0069,Glebe Island Bridge,,,Eastern Harbour City,,2,glebe island bridge
+project_timeline,TFNSW-0070,"Heathcote Road, The Avenue to Princes Highway",,,Eastern Harbour City,,2,heathcote road the avenue to princes highway
+project_timeline,TFNSW-0071,"Mona Vale Road West upgrade, McCarrs Creek Road to Powder Works Road",,,Eastern Harbour City,,3,mona vale road west upgrade mccarrs creek road to powder works road
+project_timeline,TFNSW-0072,Airport Precinct Safety and Access Program (APSAP),,,Western Parkland City,,2,airport precinct safety and access program apsap
+project_timeline,TFNSW-0073,Appin Road and St Johns Road Intersection Upgrade,,,Western Parkland City,,2,appin road and st johns road intersection upgrade
+project_timeline,TFNSW-0074,"Bandon Road Upgrade & Extension, Windsor Road to Richmond Road",,,Western Parkland City,,2,bandon road upgrade and extension windsor road to richmond road
+project_timeline,TFNSW-0075,Bradfield Metro Link Road - Badgerys Creek Road to Proposed Eastern Ring Road,,,Western Parkland City,,1,bradfield metro link road badgerys creek road to proposed eastern ring road
+project_timeline,TFNSW-0076,Burdekin Road and Townson Road Upgrade,,,Western Parkland City,,1,burdekin road and townson road upgrade
+project_timeline,TFNSW-0077,Cambridge Avenue upgrade,,,Western Parkland City,,1,cambridge avenue upgrade
+project_timeline,TFNSW-0078,Camden Valley Way,,,Western Parkland City,,2,camden valley way
+project_timeline,TFNSW-0079,Campbelltown Road,,,Western Parkland City,,2,campbelltown road
+project_timeline,TFNSW-0080,Cowpasture Road,,,Western Parkland City,,1,cowpasture road
+project_timeline,TFNSW-0081,Devonshire Link Road - Mamre Road Stage 2 to Elizabeth Drive,,,Western Parkland City,,1,devonshire link road mamre road stage 2 to elizabeth drive
+project_timeline,TFNSW-0082,Devonshire Road - Elizabeth Drive to Bringelly Road,,,Western Parkland City,,1,devonshire road elizabeth drive to bringelly road
+project_timeline,TFNSW-0083,Eastern Ring Road and Badgerys Creek Road (South) - Elizabeth Drive to The Northern Road,,,Western Parkland City,,1,eastern ring road and badgerys creek road south elizabeth drive to the northern road
+project_timeline,TFNSW-0084,"Elizabeth Drive upgrade- Stage 1, Devonshire Road to Badgerys Creek",,,Western Parkland City,,2,elizabeth drive upgrade stage 1 devonshire road to badgerys creek
+project_timeline,TFNSW-0085,Fifteenth Avenue Upgrade,,,Western Parkland City,,2,fifteenth avenue upgrade
+project_timeline,TFNSW-0086,Garfield Road Central,,,Western Parkland City,,1,garfield road central
+project_timeline,TFNSW-0087,Garfield Road Upgrade East,,,Western Parkland City,,2,garfield road upgrade east
+project_timeline,TFNSW-0088,Garfield Road Upgrade West,,,Western Parkland City,,1,garfield road upgrade west
+project_timeline,TFNSW-0089,"Great Western Hwy and Parker St Intersection upgrade, Penrith",,,Western Parkland City,,1,great western hwy and parker st intersection upgrade penrith
+project_timeline,TFNSW-0090,Hawkesbury-Nepean Valley Road Resilience Program,,,Western Parkland City,,1,hawkesbury nepean valley road resilience program
+project_timeline,TFNSW-0091,Mamre Road Upgrade - Stage 2,,,Western Parkland City,,2,mamre road upgrade stage 2
+project_timeline,TFNSW-0092,Mulgoa Road Upgrade Stage 5a & 5b,,,Western Parkland City,,2,mulgoa road upgrade stage 5a and 5b
+project_timeline,TFNSW-0093,Richmond Road Corridor Upgrade,,,Western Parkland City,,1,richmond road corridor upgrade
+project_timeline,TFNSW-0094,"The Horsley Dr/Polding St, Fairfield",,,Western Parkland City,,2,the horsley dr polding st fairfield
+project_timeline,TFNSW-0095,"The Horsley Drive, M7 Motorway to Cowpasture Road",,,Western Parkland City,,2,the horsley drive m7 motorway to cowpasture road
+project_timeline,TFNSW-0096,"The Northern Road Upgrade, Borrowdale Way to Londonderry Road",,,Western Parkland City,,1,the northern road upgrade borrowdale way to londonderry road
+project_timeline,TFNSW-0097,Werrington Arterial Stage 2,,,Western Parkland City,,1,werrington arterial stage 2
+project_timeline,TFNSW-0098,Western Sydney Heavy Vehicle Rest Area,,,Western Parkland City,,3,western sydney heavy vehicle rest area
+project_timeline,TFNSW-0099,Western Sydney International Airport Wayfinding,,,Western Parkland City,,1,western sydney international airport wayfinding
+project_timeline,TFNSW-0100,Windsor Road Upgrade at Rouse Hill,,,Western Parkland City,,3,windsor road upgrade at rouse hill
+project_timeline,TFNSW-0101,Epping Bridge Project,,,Central River City,,3,epping bridge project
+project_timeline,TFNSW-0102,Future Fleet Program,,,Rail,,2,future fleet program
+project_timeline,TFNSW-0103,Regional Overnight Sleeper Services,,,Rail,,2,regional overnight sleeper services
+project_timeline,TFNSW-0104,Oxford Street Revitalisation (previously Oxford Street East Cycleway),,,Eastern Harbour City,,3,oxford street revitalisation previously oxford street east cycleway
+project_timeline,TFNSW-0105,Dobroyd Parade Pedestrian Bridge,,,Minor Projects,,2,dobroyd parade pedestrian bridge
+project_timeline,TFNSW-0106,Flushcombe Rd / Bungarribee Rd Intersection Upgrade and Francis Street Upgrade,,,Minor Projects,,1,flushcombe rd bungarribee rd intersection upgrade and francis street upgrade
+project_timeline,TFNSW-0107,Francis Road Railway Overpass Widening at Rooty Hill,,,Minor Projects,,1,francis road railway overpass widening at rooty hill
+project_timeline,TFNSW-0108,Greater Sydney Cycling and Micromobility Investment Program,,,Minor Projects,,1,greater sydney cycling and micromobility investment program
+project_timeline,TFNSW-0109,Hurstville Pedestrian Bridge,,,Minor Projects,,3,hurstville pedestrian bridge
+project_timeline,TFNSW-0110,Kosciuszko Rd and Alpine Way (Intersection Upgrade),,,Minor Projects,,1,kosciuszko rd and alpine way intersection upgrade
+project_timeline,TFNSW-0111,M4 Improvement Works - Coleman to Church,,,Minor Projects,,2,m4 improvement works coleman to church
+project_timeline,TFNSW-0112,"McEvoy Street and Botany Road, Waterloo Intersection Improvements",,,Minor Projects,,3,mcevoy street and botany road waterloo intersection improvements
+project_timeline,TFNSW-0113,North Sydney Active Transport,,,Minor Projects,,8,north sydney active transport
+project_timeline,TFNSW-0114,Parramatta to Sydney Foreshore link,,,Minor Projects,,1,parramatta to sydney foreshore link
+project_timeline,TFNSW-0115,Princes Hwy/Waratah St Intrs-Kirrawee,,,Minor Projects,,2,princes hwy waratah st intrs kirrawee
+project_timeline,TFNSW-0116,Safety Barrier Program,,,Minor Projects,,1,safety barrier program
+project_timeline,TFNSW-0117,Shellharbour Hospital Shared User Path,,,Minor Projects,,1,shellharbour hospital shared user path
+project_timeline,TFNSW-0118,Strategic Cycleway Corridors,,,Minor Projects,,1,strategic cycleway corridors
+project_timeline,TFNSW-0119,Sutherland to Cronulla Active Transport Link (Stage 2B West),,,Minor Projects,,5,sutherland to cronulla active transport link stage 2b west
+project_timeline,TFNSW-0120,Sutherland to Cronulla Active Transport Link (Stage 3),,,Minor Projects,,5,sutherland to cronulla active transport link stage 3
+project_timeline,TFNSW-0121,Sydney Park Junction,,,Minor Projects,,2,sydney park junction
+project_timeline,TFNSW-0122,Thurgoona Drive Intersection Upgrade,,,Minor Projects,,1,thurgoona drive intersection upgrade
+project_timeline,TFNSW-0123,"WSRB, Package 4; Bradfield Layover",,,Minor Projects,,1,wsrb package 4 bradfield layover
+budget_paper,BUD-0068923BF1,Heathcote Road - The Avenue to Princes Highway (Planning),Transport for NSW,Various,Connecting Sydney Roads,,1,heathcote road the avenue to princes highway planning
+budget_paper,BUD-029B29C941,Western Sydney Heavy Vehicle Rest Area (State and Federal Funded),Transport for NSW,Eastern Creek,Connecting Sydney Roads,,2,western sydney heavy vehicle rest area state and federal funded
+budget_paper,BUD-02D2E44107,M1 Tweed Heads and Byron Bay (State and Federal Funded),Transport for NSW,Various,Connecting Regional NSW (Roads and Bridges),,1,m1 tweed heads and byron bay state and federal funded
+budget_paper,BUD-04E9A9619F,Pedestrian Safety Barriers Blaxland,Transport for NSW,Blaxland,Urban Roads Fund,,1,pedestrian safety barriers blaxland
+budget_paper,BUD-07A125ADC3,Airport Precinct Safety & Access Program (APSAP),Transport for NSW,Various,Other Major Programs,,2,airport precinct safety and access program apsap
+budget_paper,BUD-0883AFA828,"Richmond Road Upgrade between M7 Motorway and Townson Road, Marsden Park (State and Federal Funded)(c)",Transport for NSW,Colebee,Connecting Sydney Roads,,2,richmond road upgrade between m7 motorway and townson road marsden park state and federal funded c
+budget_paper,BUD-08E4363424,Western Sydney Long Term Strategic Transport Corridor Preservation,Transport for NSW,Various,Connecting Sydney Roads,,3,western sydney long term strategic transport corridor preservation
+budget_paper,BUD-09B3DC18E4,Western Sydney International Airport Wayfinding,Transport for NSW,Various,Other Major Programs,,2,western sydney international airport wayfinding
+budget_paper,BUD-0EA71AF980,Princes Highway Corridor (NSW) - Jervis Bay to Sussex Inlet Road Upgrade Stage 1 (State and Federal Funded),Transport for NSW,Jervis Bay,Princes Corridor,,1,princes highway corridor nsw jervis bay to sussex inlet road upgrade stage 1 state and federal funded
+budget_paper,BUD-0EC61A064E,Eastern Ring Road and Badgerys Creek Road South (Planning) (State and Federal Funded),Transport for NSW,Various,Other Major Programs,,3,eastern ring road and badgerys creek road south planning state and federal funded
+budget_paper,BUD-0EEE412074,"Lease Acquisition between $250,000 and $20 million(a)",NSW Trains,Various,,,3,lease acquisition between 250 000 and 20 million a
+budget_paper,BUD-108031018C,Sheahan Bridge Upgrade (Planning) (State and Federal Funded),Transport for NSW,Gundagai,Hume Corridor,,3,sheahan bridge upgrade planning state and federal funded
+budget_paper,BUD-11D757DAAB,Francis Road Rail Overpass at Rooty Hill (Planning),Transport for NSW,Rooty Hill,Connecting Sydney Roads,,2,francis road rail overpass at rooty hill planning
+budget_paper,BUD-11D8E6866A,Devonshire Link Road and Bradfield Metro Link Road (Planning) (State and Federal Funded),Transport for NSW,Kemps Creek,Connecting Sydney Roads,,2,devonshire link road and bradfield metro link road planning state and federal funded
+budget_paper,BUD-1308623375,New Bus Services for Western Sydney (State and Federal Funded),Transport for NSW,Various,Other Major Programs,,3,new bus services for western sydney state and federal funded
+budget_paper,BUD-142F883609,"Lease Acquisition between $250,000 and $20 million(a)",Sydney Trains,Various,,,3,lease acquisition between 250 000 and 20 million a
+budget_paper,BUD-162C3A2891,Princes Highway Corridor - Milton Ulladulla Bypass (State and Federal Funded),Transport for NSW,Milton,Princes Corridor,,2,princes highway corridor milton ulladulla bypass state and federal funded
+budget_paper,BUD-18CFA60B01,Regional Corridors Upgrade Program - Euston to Tocumwal (d),Transport for NSW,Various,Regional Corridors Upgrade Program,,1,regional corridors upgrade program euston to tocumwal d
+budget_paper,BUD-19CC4BAA16,Princes Highway Corridor (NSW) - Jervis Bay Road to Hawken Road (State and Federal Funded),Transport for NSW,Jervis Bay,Princes Corridor,,2,princes highway corridor nsw jervis bay road to hawken road state and federal funded
+budget_paper,BUD-1B446EF3E4,"Pacific Highway, Wyong Town Centre (State and Federal Funded)",Transport for NSW,Wyong,Connecting Central Coast Roads,,3,pacific highway wyong town centre state and federal funded
+budget_paper,BUD-1B5414E81E,Mamre Road - Erskine Park Road to Kerrs Road (State and Federal Funded),Transport for NSW,Kemps Creek,Connecting Sydney Roads,,1,mamre road erskine park road to kerrs road state and federal funded
+budget_paper,BUD-1B82A8C537,"Prospect Highway, Reservoir Road to St Martins Crescent (State and Federal Funded)",Transport for NSW,Prospect,Connecting Sydney Roads,,1,prospect highway reservoir road to st martins crescent state and federal funded
+budget_paper,BUD-1CA427DAF9,Sydney Metro City and Southwest(b),Sydney Metro,Chatswood - Bankstown,,,3,sydney metro city and southwest b
+budget_paper,BUD-1CBFC0787B,Bandon Road Corridor Upgrade and Extension (Planning) (State and Federal Funded)(d),Transport for NSW,Various,Connecting Sydney Roads,,1,bandon road corridor upgrade and extension planning state and federal funded d
+budget_paper,BUD-1EA45D850D,"King Georges Road, Stoney Creek Road to Connells Point Road - Stage 1 and 2A (State and Federal Funded)",Transport for NSW,Penshurst,Connecting Sydney Roads,,1,king georges road stoney creek road to connells point road stage 1 and 2a state and federal funded
+budget_paper,BUD-1FCC4A8462,"Minmi Road and Newcastle Link Road, Edgeworth",Transport for NSW,Edgeworth,Connecting Regional NSW (Roads and Bridges),,1,minmi road and newcastle link road edgeworth
+budget_paper,BUD-2559AC5020,"Great Western Highway, Medlow Bath (State and Federal Funded)",Transport for NSW,Medlow Bath,Great Western Highway and Bells Line of Road,,2,great western highway medlow bath state and federal funded
+budget_paper,BUD-262FF355DB,Western Distributor Smart Motorway (State and Federal Funded),Transport for NSW,Various,Sydney Motorways,,1,western distributor smart motorway state and federal funded
+budget_paper,BUD-29068BD298,Traffic Lights at Bank Street,Transport for NSW,Meadowbank,Urban Roads Fund,,3,traffic lights at bank street
+budget_paper,BUD-2BD8B456AF,"Hargraves Lane and Federation St Upgrade, Gilgandra (Heavy Vehicle bypass) (State and Federal Funded)",Transport for NSW,Gilgandra,Newell Corridor,,3,hargraves lane and federation st upgrade gilgandra heavy vehicle bypass state and federal funded
+budget_paper,BUD-2C6DC8B5F7,Castlereagh Connection - Planning,Transport for NSW,Various,Other Major Programs,,1,castlereagh connection planning
+budget_paper,BUD-2CEC9D2094,Tolling Operations and Modernisation,Transport for NSW,Various,Other Election Commitments,,1,tolling operations and modernisation
+budget_paper,BUD-2DA7F81D69,Bus Transport Management System (BTMS),Transport for NSW,Various,Other Major Programs,,1,bus transport management system btms
+budget_paper,BUD-2EB349B281,Bruxner Highway Upgrades,Transport for NSW,Various,Connecting Regional NSW (Roads and Bridges),,2,bruxner highway upgrades
+budget_paper,BUD-2F3E8A1DB2,Waterfall Way Upgrade,Transport for NSW,Various,Connecting Regional NSW (Roads and Bridges),,3,waterfall way upgrade
+budget_paper,BUD-2F462C0CFB,Mamre Road Stage 2 - Erskine Park Road to Kerrs Road (State and Federal Funded),Transport for NSW,Kemps Creek,Connecting Sydney Roads,,2,mamre road stage 2 erskine park road to kerrs road state and federal funded
+budget_paper,BUD-3029BE90AC,Warringah Freeway Upgrade,Transport for NSW,Various,Sydney Motorways,,3,warringah freeway upgrade
+budget_paper,BUD-341A7DEC42,Circular Quay Precinct Renewal (Planning) (State and Federal Funded),Transport for NSW,Sydney,Interchanges and Accessibility,,2,circular quay precinct renewal planning state and federal funded
+budget_paper,BUD-364246C8DD,Western Sydney Roads (Planning) (State and Federal Funded),Transport for NSW,Various,Other Major Programs,,3,western sydney roads planning state and federal funded
+budget_paper,BUD-39E1ADA860,Western Distributor Network Integration,Transport for NSW,Pyrmont,Other Major Programs,,1,western distributor network integration
+budget_paper,BUD-3A1CC1C8D7,"Heathcote Road, Infantry Parade, Hammondville to The Avenue, Voyager Point (State and Federal Funded)",Transport for NSW,Holsworthy,Connecting Sydney Roads,,2,heathcote road infantry parade hammondville to the avenue voyager point state and federal funded
+budget_paper,BUD-3A484C60E7,Townson and Burdekin Road Upgrades (Planning) (State and Federal Funded),Transport for NSW,Various,Connecting Sydney Roads,,2,townson and burdekin road upgrades planning state and federal funded
+budget_paper,BUD-3A635972C5,Devonshire Road (Planning),Transport for NSW,Kemps Creek,Connecting Sydney Roads,,2,devonshire road planning
+budget_paper,BUD-3AB43004E9,Driftway Roundabout at Londonderry,Transport for NSW,Londonderry,Urban Roads Fund,,3,driftway roundabout at londonderry
+budget_paper,BUD-3B1FE785A2,Sydney Metro-Western Sydney Airport-Northern extension- Business Case,Sydney Metro,St Marys - Tallawong,,,3,sydney metro western sydney airport northern extension business case
+budget_paper,BUD-3CE94DF8C5,Richmond Road Corridor Upgrade (Planning) (State and Federal Funded),Transport for NSW,Various,Connecting Sydney Roads,,2,richmond road corridor upgrade planning state and federal funded
+budget_paper,BUD-3DBA2152A0,Pitt Town Bypass(c),Transport for NSW,Pitt Town,Urban Roads Fund,,3,pitt town bypass c
+budget_paper,BUD-414C68472D,Elizabeth Drive Upgrades (State and Federal Funded)(c),Transport for NSW,Various,Connecting Sydney Roads,,3,elizabeth drive upgrades state and federal funded c
+budget_paper,BUD-414CC9D7FB,Other Works,Transport Asset Manager/Holding Entity NSW,Various,,,1,other works
+budget_paper,BUD-426534E52A,Princes Highway Upgrade Program Corridor - Safety and Productivity Upgrades,Transport for NSW,Nowra - Moruya,Princes Corridor,,3,princes highway upgrade program corridor safety and productivity upgrades
+budget_paper,BUD-43464B1FCF,Golden Highway Improvements,Transport for NSW,Various,Regional Roads Fund,,2,golden highway improvements
+budget_paper,BUD-4448787F3E,South West Sydney Rail Planning-Business Case (State and Federal Funded)(a),Sydney Metro,Bradfield - Leppington/ Campbelltown,,,3,south west sydney rail planning business case state and federal funded a
+budget_paper,BUD-459AC1EDBE,M5 Motorway - Moorebank Avenue - Hume Highway Intersection Upgrade (State and Federal Funded),Transport for NSW,Moorebank,Sydney Motorways,,3,m5 motorway moorebank avenue hume highway intersection upgrade state and federal funded
+budget_paper,BUD-45FC0ADBD6,Henry Lawson Drive Upgrade Stage 1A,Transport for NSW,Milperra,Connecting Sydney Roads,,2,henry lawson drive upgrade stage 1a
+budget_paper,BUD-46C8180649,Alphadale Crossroads,Transport for NSW,Lismore,Regional Roads Fund,,3,alphadale crossroads
+budget_paper,BUD-47B24AD725,Gosford Bypass (Planning and Design),Transport for NSW,Gosford,Regional Roads Fund,,3,gosford bypass planning and design
+budget_paper,BUD-48D950F24B,Parramatta Class Ferries,Sydney Ferries,Various,,,1,parramatta class ferries
+budget_paper,BUD-497A5B5BF5,Mariyung Fleet (New Intercity Fleet),Transport Asset Manager/Holding Entity NSW,Various,,,3,mariyung fleet new intercity fleet
+budget_paper,BUD-4A83D09FAB,M1 Princes Motorway Entry and Exit Ramps (State and Federal Funded)(d),Transport for NSW,Dapto,Regional Roads Fund,,2,m1 princes motorway entry and exit ramps state and federal funded d
+budget_paper,BUD-4B5A1D8FEB,Parramatta Light Rail Stage 1,Transport for NSW,Parramatta,Light Rail,,1,parramatta light rail stage 1
+budget_paper,BUD-4B7AFA71DA,Duplicate Sections of Heathcote Road,Transport for NSW,Various,Urban Roads Fund,,3,duplicate sections of heathcote road
+budget_paper,BUD-4BC1719981,"Great Western Highway, Coxs River Road (State and Federal Funded)",Transport for NSW,Lithgow,Great Western Highway and Bells Line of Road,,1,great western highway coxs river road state and federal funded
+budget_paper,BUD-4D8E339A7A,Nelson Bay Road - Williamtown to Bobs Farm (State and Federal Funded),Transport for NSW,Williamtown,Connecting Regional NSW (Roads and Bridges),,3,nelson bay road williamtown to bobs farm state and federal funded
+budget_paper,BUD-517B618087,Speers Point Intersection(d),Transport for NSW,Lake Macquarie,Regional Roads Fund,,3,speers point intersection d
+budget_paper,BUD-51F7A09AF8,South West Sydney Roads (Planning) (State and Federal Funded),Transport for NSW,Various,Other Major Programs,,3,south west sydney roads planning state and federal funded
+budget_paper,BUD-5385E893C1,Picton Road Upgrade (Planning) (State and Federal Funded),Transport for NSW,Picton,Other Major Programs,,3,picton road upgrade planning state and federal funded
+budget_paper,BUD-55D1E30739,Active Transport,Transport for NSW,Various,Other Major Programs,,3,active transport
+budget_paper,BUD-5A075AA97B,"Pacific Highway - Harrington Road Intersection Upgrade, Coopernook (State and Federal Funded)",Transport for NSW,Coopernook,Pacific Corridor,,2,pacific highway harrington road intersection upgrade coopernook state and federal funded
+budget_paper,BUD-5B36F2211F,"Hillsborough Road, Warners Bay to Charlestown (Stage 1)(e)",Transport for NSW,Warners Bay,Connecting Regional NSW (Roads and Bridges),,3,hillsborough road warners bay to charlestown stage 1 e
+budget_paper,BUD-5D4D5C4FC7,"Central Coast Highway, Tumbi Road Intersection Upgrade (State and Federal Funded)",Transport for NSW,Wamberal - Bateau Bay,Connecting Central Coast Roads,,3,central coast highway tumbi road intersection upgrade state and federal funded
+budget_paper,BUD-5D97035C08,"New England Highway, Singleton Bypass (State and Federal Funded)",Transport for NSW,Singleton,New England Corridor,,3,new england highway singleton bypass state and federal funded
+budget_paper,BUD-5F3B10D75B,Tuross Head Intersection,Transport for NSW,Tuross Head,Regional Roads Fund,,3,tuross head intersection
+budget_paper,BUD-615FC9F19D,Pinch Points and Clearways (State and Federal Funded),Transport for NSW,Various,Easing Sydney's Congestion,,1,pinch points and clearways state and federal funded
+budget_paper,BUD-628937EF8A,Wallerawang Train Station Reactivation,Transport for NSW,Wallerawang,Other Major Programs,,2,wallerawang train station reactivation
+budget_paper,BUD-642E91727A,Mount Ousley Interchange (State and Federal Funded),Transport for NSW,Mount Ousley,Princes Corridor,,3,mount ousley interchange state and federal funded
+budget_paper,BUD-649E2B8DEE,Resurface Canterbury Road,Transport for NSW,Various,Urban Roads Fund,,1,resurface canterbury road
+budget_paper,BUD-669FBFF62A,Sydney Metro-Western Sydney Airport (State and Federal Funded)(c),Sydney Metro,St Marys - Bringelly,,,3,sydney metro western sydney airport state and federal funded c
+budget_paper,BUD-678784DB1D,Western Harbour Tunnel,Transport for NSW,Various,Sydney Motorways,,3,western harbour tunnel
+budget_paper,BUD-685DFD23F2,Windsor Road Upgrade at Rouse Hill (State and Federal Funded),Transport for NSW,Rouse Hill,Other Major Programs,,1,windsor road upgrade at rouse hill state and federal funded
+budget_paper,BUD-688B325B42,Rail Service Improvement Program,Transport Asset Manager/Holding Entity NSW,Various,,,3,rail service improvement program
+budget_paper,BUD-690F3C380A,Community Commitments - Road and Transport,Transport for NSW,Various,Other Election Commitments,,1,community commitments road and transport
+budget_paper,BUD-6A19BAC2D9,Great Western Highway Detour Resilience Work,Transport for NSW,Blue Mountains,Great Western Highway and Bells Line of Road,,1,great western highway detour resilience work
+budget_paper,BUD-6D566BBA6B,Mandalong Road Upgrade (State and Federal Funded),Transport for NSW,Morisset,Connecting Regional NSW (Roads and Bridges),,3,mandalong road upgrade state and federal funded
+budget_paper,BUD-6E640330C0,Narooma Bridge (Planning) (State and Federal Funded),Transport for NSW,Narooma,Princes Corridor,,2,narooma bridge planning state and federal funded
+budget_paper,BUD-6F2F434C09,Mulgoa Road Stage 1 - Blaikie Road to M4 Motorway (State and Federal Funded)(c),Transport for NSW,Jamisontown,Connecting Sydney Roads,,2,mulgoa road stage 1 blaikie road to m4 motorway state and federal funded c
+budget_paper,BUD-6F639863F3,Coffs Harbour Bypass (State and Federal Funded),Transport for NSW,Coffs Harbour,Pacific Corridor,,3,coffs harbour bypass state and federal funded
+budget_paper,BUD-711DBFA778,"Mona Vale Road, McCarrs Creek Road To Powder Works Road",Transport for NSW,Various,Connecting Sydney Roads,,1,mona vale road mccarrs creek road to powder works road
+budget_paper,BUD-72C4A32358,Return Freshwater Class Ferries to Circular Quay-Manly,Sydney Ferries,Various,,,2,return freshwater class ferries to circular quay manly
+budget_paper,BUD-72D6664ACC,Garfield Road East (State and Federal Funded)(c),Transport for NSW,Riverstone,Connecting Sydney Roads,,2,garfield road east state and federal funded c
+budget_paper,BUD-7331A99D57,Hawkesbury Nepean Valley Flood Evacuation Road Resilience - Planning (State and Federal Funded),Transport for NSW,Various,Other Major Programs,,1,hawkesbury nepean valley flood evacuation road resilience planning state and federal funded
+budget_paper,BUD-73D082597D,Upgrade Garfield Road East (State and Federal Funded)(f),Transport for NSW,Riverstone,Connecting Sydney Roads,,1,upgrade garfield road east state and federal funded f
+budget_paper,BUD-76005766AE,Picton Bypass (Planning) (State and Federal Funded),Transport for NSW,Picton,Connecting Sydney Roads,,3,picton bypass planning state and federal funded
+budget_paper,BUD-7988CE2B43,"The Horsley Drive, M7 Motorway to Cowpasture Road (State and Federal Funded)",Transport for NSW,Horsley Park,Connecting Sydney Roads,,3,the horsley drive m7 motorway to cowpasture road state and federal funded
+budget_paper,BUD-7A37BF52FD,"Pacific Motorway, Extension to Raymond Terrace (State and Federal Funded)",Transport for NSW,Hexham,Connecting Hunter Roads,,3,pacific motorway extension to raymond terrace state and federal funded
+budget_paper,BUD-7A6B8C0F3B,Sydney Coordinated Adaptive Traffic System (SCATS) Customer Improvement Program,Transport for NSW,Various,Easing Sydney's Congestion,,1,sydney coordinated adaptive traffic system scats customer improvement program
+budget_paper,BUD-7B9FD9B846,Princes Highway Corridor (NSW) - Jervis Bay Road Intersection (State and Federal Funded),Transport for NSW,Jervis Bay,Princes Corridor,,3,princes highway corridor nsw jervis bay road intersection state and federal funded
+budget_paper,BUD-7C25E09D3F,Upgrade of Bandon Road (Planning) (State and Federal Funded)(f),Transport for NSW,Various,Connecting Sydney Roads,,1,upgrade of bandon road planning state and federal funded f
+budget_paper,BUD-7CD033B2CE,Spring Farm Parkway Stage 1,Transport for NSW,Menangle Park,Connecting Sydney Roads,,1,spring farm parkway stage 1
+budget_paper,BUD-7D2A013AD4,Newell Highway Narrabri to Moree Heavy Duty Pavements (State and Federal Funded),Transport for NSW,Narrabri – Moree,Newell Corridor,,2,newell highway narrabri to moree heavy duty pavements state and federal funded
+budget_paper,BUD-7FF3EA741A,Yass Road-Bungendore Road- Ellerton Drive Intersection,Transport for NSW,Queanbeyan,Regional Roads Fund,,2,yass road bungendore road ellerton drive intersection
+budget_paper,BUD-808CD55D38,Parramatta Light Rail Stage 2,Transport for NSW,Parramatta,Light Rail,,3,parramatta light rail stage 2
+budget_paper,BUD-80E896BC80,Barton Highway Improvements (State and Federal Funded),Transport for NSW,Goulburn,Connecting Regional NSW (Roads and Bridges),,3,barton highway improvements state and federal funded
+budget_paper,BUD-82A62F45E8,"Safe, Accessible Transport Program",Transport Asset Manager/Holding Entity NSW,Various,,,3,safe accessible transport program
+budget_paper,BUD-82E6706A7A,New Electric Bus Program,Transport for NSW,Various,Other Major Programs,,1,new electric bus program
+budget_paper,BUD-8457D20AEE,Terrigal Drive Upgrade (Federal Funded),Transport for NSW,Terrigal,Connecting Central Coast Roads,,2,terrigal drive upgrade federal funded
+budget_paper,BUD-851F6E1FF5,Sydney Fish Markets Ferry Stop,Transport for NSW,Pyrmont,Other Major Programs,,2,sydney fish markets ferry stop
+budget_paper,BUD-85A55BA206,Old Windsor Road (Planning) (Federal Funded),Transport for NSW,Various,Other Major Programs,,1,old windsor road planning federal funded
+budget_paper,BUD-85E906140C,"New England Highway, Muswellbrook Bypass (State and Federal Funded)",Transport for NSW,Muswellbrook,New England Corridor,,3,new england highway muswellbrook bypass state and federal funded
+budget_paper,BUD-880BB0DE69,Swan Hill Bridge (State and Federal Funded),Transport for NSW,Murray Downs,Connecting Regional NSW (Roads and Bridges),,2,swan hill bridge state and federal funded
+budget_paper,BUD-8888CFE34F,Fixing Country Rail,Transport Asset Manager/Holding Entity NSW,Various,,,3,fixing country rail
+budget_paper,BUD-8A6975EE09,Regional Rail Fleet Program,Transport Asset Manager/Holding Entity NSW,Various,,,3,regional rail fleet program
+budget_paper,BUD-8D580420A0,Thornton Rail Bridge,Transport for NSW,Maitland,Regional Roads Fund,,2,thornton rail bridge
+budget_paper,BUD-8D5E06A8C1,Golden Highway Upgrades - Mudies Creek (State and Federal Funded),Transport for NSW,Whittingham,Connecting Regional NSW (Roads and Bridges),,2,golden highway upgrades mudies creek state and federal funded
+budget_paper,BUD-8F69D8D289,Homebush Bay Drive and Australia Avenue Intersection Upgrade (State and Federal Funded),Transport for NSW,Liberty Grove,Connecting Sydney Roads,,1,homebush bay drive and australia avenue intersection upgrade state and federal funded
+budget_paper,BUD-90A8D182FB,Epping Station Bridge Replacement (State and Federal Funded),Transport for NSW,Epping,Connecting Sydney Roads,,3,epping station bridge replacement state and federal funded
+budget_paper,BUD-91EAA5B3F9,Traffic Lights at Elara Boulevard,Transport for NSW,Marsden Park,Urban Roads Fund,,1,traffic lights at elara boulevard
+budget_paper,BUD-920324F71C,Spring Farm Parkway Stage 2 (Planning) (State and Federal Funded)(c),Transport for NSW,Various,Urban Roads Fund,,3,spring farm parkway stage 2 planning state and federal funded c
+budget_paper,BUD-943E51C71A,"Pacific Highway - Harrington Road Intersection Upgrade, Coopernook (Planning)(State and Federal Funded)",Transport for NSW,Coopernook,Pacific Corridor,,1,pacific highway harrington road intersection upgrade coopernook planning state and federal funded
+budget_paper,BUD-94E9E7CC29,"M12 Motorway, M7 to The Northern Road (State and Federal Funded)",Transport for NSW,Badgerys Creek,Western Sydney Infrastructure Plan,,2,m12 motorway m7 to the northern road state and federal funded
+budget_paper,BUD-9A68224DAA,New England Highway Duplication (Goonoo Goonoo Road) (State and Federal Funded),Transport for NSW,Tamworth,New England Corridor,,3,new england highway duplication goonoo goonoo road state and federal funded
+budget_paper,BUD-9A6D523B2C,"Avoca Drive, Central Coast (State and Federal Funded)",Transport for NSW,Kincumber,Connecting Central Coast Roads,,3,avoca drive central coast state and federal funded
+budget_paper,BUD-9A94D2DE6A,Regional NSW Bridge Upgrades,Transport for NSW,Various,Connecting Regional NSW (Roads and Bridges),,3,regional nsw bridge upgrades
+budget_paper,BUD-9D1EB3BB36,Hill Road Upgrade,Transport for NSW,Lidcombe,Connecting Sydney Roads,,3,hill road upgrade
+budget_paper,BUD-A1A16B6C81,Rail Fleet Strategy including Future Fleet Tangara Replacement (Planning),Transport Asset Manager/Holding Entity NSW,Various,,,1,rail fleet strategy including future fleet tangara replacement planning
+budget_paper,BUD-A2D1EA6715,Homebush Bay Drive Upgrade (State and Federal Funded),Transport for NSW,Liberty Grove,Connecting Sydney Roads,,2,homebush bay drive upgrade state and federal funded
+budget_paper,BUD-A39C805B02,South West Sydney Rail Planning-Business Case (State and Federal Funded)(b),Transport Asset Manager/Holding Entity NSW,Bradfield - Leppington/ Campbelltown,,,2,south west sydney rail planning business case state and federal funded b
+budget_paper,BUD-A58A0EF6FF,"Pacific Motorway, Hexham Straight (State and Federal Funded)",Transport for NSW,Hexham,Connecting Hunter Roads,,2,pacific motorway hexham straight state and federal funded
+budget_paper,BUD-A626D1B998,Future Fleet Program (Planning),Transport Asset Manager/Holding Entity NSW,Various,,,2,future fleet program planning
+budget_paper,BUD-A79D6516E0,Zero Emissions Buses Program,Transport for NSW,Various,Other Major Programs,,1,zero emissions buses program
+budget_paper,BUD-A86A72F93F,Appin Road Upgrades (State and Federal Funded),Transport for NSW,Appin,Connecting Sydney Roads,,3,appin road upgrades state and federal funded
+budget_paper,BUD-AB5BF73325,Flushcombe Road & Bungarribee Road Intersection Upgrade (Planning),Transport for NSW,Blacktown,Connecting Sydney Roads,,2,flushcombe road and bungarribee road intersection upgrade planning
+budget_paper,BUD-ACB04930C1,Newell Highway Flood Mitigation Works (Planning) (State and Federal Funded),Transport for NSW,West Wyalong,Newell Corridor,,3,newell highway flood mitigation works planning state and federal funded
+budget_paper,BUD-AF0B297F2F,Wallendbeen Bridge Approaches,Transport for NSW,Wallendbeen,Regional Roads Fund,,1,wallendbeen bridge approaches
+budget_paper,BUD-B2B1F1B833,Newell Highway - North Moree Heavy Duty Pavement (State and Federal Funded),Transport for NSW,Moree,Newell Corridor,,1,newell highway north moree heavy duty pavement state and federal funded
+budget_paper,BUD-B33CF5AEA8,Bulli Bypass Investigation,Transport for NSW,Bulli,Regional Roads Fund,,2,bulli bypass investigation
+budget_paper,BUD-B579BC7396,Opal 2.0,Transport for NSW,Various,Other Major Programs,,1,opal 2 0
+budget_paper,BUD-B5FF67A08A,Zero Emissions Buses Program (State and Federal funded),Transport for NSW,Various,Other Major Programs,,1,zero emissions buses program state and federal funded
+budget_paper,BUD-B68001C12C,Hume Highway Corridor Strategy (Planning) (State and Federal Funded),Transport for NSW,Various,Hume Corridor,,3,hume highway corridor strategy planning state and federal funded
+budget_paper,BUD-B731621557,Western Sydney Freight Line and Intermodal Terminal (Planning and Development) (State and Federal Funded),Transport for NSW,Various,Other Major Programs,,3,western sydney freight line and intermodal terminal planning and development state and federal funded
+budget_paper,BUD-BA7EE294B1,John Renshaw Drive Upgrade (Planning) (State and Federal Funded),Transport for NSW,Various,Connecting Hunter Roads,,3,john renshaw drive upgrade planning state and federal funded
+budget_paper,BUD-BB57EF85AD,Marshalls Creek Bridge,Transport for NSW,Wagga Wagga,Connecting Regional NSW (Roads and Bridges),,3,marshalls creek bridge
+budget_paper,BUD-BB7B597D6A,Widen Richmond Road at Elara Boulevard (State and Federal Funded)(f),Transport for NSW,Marsden Park,Connecting Sydney Roads,,1,widen richmond road at elara boulevard state and federal funded f
+budget_paper,BUD-BF17A2C566,Yass Road-Bungendore Road- Ellerton Road Intersection,Transport for NSW,Queanbeyan,Regional Roads Fund,,1,yass road bungendore road ellerton road intersection
+budget_paper,BUD-BFCA5E7F24,Tichborne & Harris Gates Grade Separation Road Interface (State and Federal Funded),Transport for NSW,Various,Other Major Programs,,2,tichborne and harris gates grade separation road interface state and federal funded
+budget_paper,BUD-C0ECBBC580,Mona Vale Road West - McCarrs Creek Road to Powder Works Road (State and Federal Funded),Transport for NSW,Terrey Hills - Ingleside,Connecting Sydney Roads,,2,mona vale road west mccarrs creek road to powder works road state and federal funded
+budget_paper,BUD-C18353623A,Nowra Bypass and Network Improvements (Planning) (State and Federal Funded),Transport for NSW,Nowra,Princes Corridor,,3,nowra bypass and network improvements planning state and federal funded
+budget_paper,BUD-C1FE6F4981,Widen Richmond Road from the M7 to Townson Road (State and Federal Funded)(f),Transport for NSW,Colebee,Connecting Sydney Roads,,1,widen richmond road from the m7 to townson road state and federal funded f
+budget_paper,BUD-C318EE281A,Wakehurst Parkway,Transport for NSW,Various,Connecting Sydney Roads,,3,wakehurst parkway
+budget_paper,BUD-C653E7DCA6,"Newell Highway, Parkes Bypass (State and Federal Funded)",Transport for NSW,Parkes,Newell Corridor,,1,newell highway parkes bypass state and federal funded
+budget_paper,BUD-C854007C49,Mamre Road Stage 1 - M4 Motorway to Erskine Park Road,Transport for NSW,St Clair,Connecting Sydney Roads,,2,mamre road stage 1 m4 motorway to erskine park road
+budget_paper,BUD-C96B703CBF,"Richmond Road Upgrade between Elara Boulevard and Heritage Road, Marsden Park (State and Federal Funded)(c)",Transport for NSW,Marsden Park,Connecting Sydney Roads,,2,richmond road upgrade between elara boulevard and heritage road marsden park state and federal funded c
+budget_paper,BUD-CA0145C609,Regional Corridors Upgrade Program - Muswellbrook to Armidale (Phase 2),Transport for NSW,Various,Regional Corridors Upgrade Program,,1,regional corridors upgrade program muswellbrook to armidale phase 2
+budget_paper,BUD-CB3746823F,Opal Next Generation,Transport for NSW,Various,Other Major Programs,,2,opal next generation
+budget_paper,BUD-CB686A82E2,Other Works,Transport for NSW,Various,Other Major Programs,,1,other works
+budget_paper,BUD-CC8CCD4602,Liverpool to Airport Transit Corridor,Transport for NSW,Various,Urban Roads Fund,,1,liverpool to airport transit corridor
+budget_paper,BUD-CEEED03F65,Macquarie Park Precinct and Bus Interchange (State and Federal Funded),Transport for NSW,Macquarie Park,Interchanges and Accessibility,,3,macquarie park precinct and bus interchange state and federal funded
+budget_paper,BUD-CF78CC0A58,"Newcastle Inner City Bypass, Rankin Park to Jesmond (State and Federal Funded)",Transport for NSW,Williamtown,Connecting Hunter Roads,,3,newcastle inner city bypass rankin park to jesmond state and federal funded
+budget_paper,BUD-D10D435BCC,Road Safety (State and Federal Funded),Transport for NSW,Various,Other Major Programs,,3,road safety state and federal funded
+budget_paper,BUD-D149CF64EE,New Buses to Cater for NSW Services,Transport for NSW,Various,Other Major Programs,,3,new buses to cater for nsw services
+budget_paper,BUD-D181E5D50C,"Mamre Road, M4 Motorway to Erskine Park Road",Transport for NSW,St Clair,Connecting Sydney Roads,,1,mamre road m4 motorway to erskine park road
+budget_paper,BUD-D3E2996928,Princes Highway Corridor (NSW) - Milton Ulladulla Bypass (State and Federal Funded),Transport for NSW,Milton,Princes Corridor,,1,princes highway corridor nsw milton ulladulla bypass state and federal funded
+budget_paper,BUD-D44C3C7C41,"Memorial Avenue, Old Windsor Road to Windsor Road (State and Federal Funded)",Transport for NSW,Kellyville,Connecting Sydney Roads,,1,memorial avenue old windsor road to windsor road state and federal funded
+budget_paper,BUD-D748A5085A,Woollahra Train Station,Transport Asset Manager/Holding Entity NSW,Woollahra,,,1,woollahra train station
+budget_paper,BUD-D77A436B81,Bells Line of Road Upgrade Program (Federal Funded),Transport for NSW,Blue Mountains,Great Western Highway and Bells Line of Road,,3,bells line of road upgrade program federal funded
+budget_paper,BUD-DAB31A7E21,Sydney Metro West,Sydney Metro,Westmead - Sydney CBD,,,3,sydney metro west
+budget_paper,BUD-DB056B1672,Maritime Infrastructure Upgrades,Transport for NSW,Various,Other Major Programs,,3,maritime infrastructure upgrades
+budget_paper,BUD-DC5F4FB2C9,M1 Princes Motorway Entry and Exit Ramps,Transport for NSW,Dapto,Regional Roads Fund,,1,m1 princes motorway entry and exit ramps
+budget_paper,BUD-DC8F8422E5,Garfield Road West (Planning) (State and Federal Funded),Transport for NSW,Various,Connecting Sydney Roads,,2,garfield road west planning state and federal funded
+budget_paper,BUD-DD5F590495,M6 Extension Stage 1,Transport for NSW,Rockdale,Sydney Motorways,,3,m6 extension stage 1
+budget_paper,BUD-DEBDBA1B99,Pedestrian Overpass Hurstville Primary (Planning),Transport for NSW,Hurstville,Urban Roads Fund,,2,pedestrian overpass hurstville primary planning
+budget_paper,BUD-DECAE5B450,Mount Ousley Safety and Reliability Works (Planning) (State and Federal Funded),Transport for NSW,Mount Ousley,Princes Corridor,,2,mount ousley safety and reliability works planning state and federal funded
+budget_paper,BUD-DFA7CB71FD,Transport Access Program - Commuter Wharf Upgrades,Transport for NSW,Various,Interchanges and Accessibility,,1,transport access program commuter wharf upgrades
+budget_paper,BUD-E0C3AB31A5,"King Georges Road, Stoney Creek Road to Connells Point Road (State and Federal Funded)",Transport for NSW,Penshurst,Connecting Sydney Roads,,1,king georges road stoney creek road to connells point road state and federal funded
+budget_paper,BUD-E3A9B7A928,RegStar Program,Transport for NSW,Various,Other Major Programs,,1,regstar program
+budget_paper,BUD-E409D02F81,Regional Corridors Upgrade Program - Newcastle to Dubbo (Phase 2)(d)(f),Transport for NSW,Various,Regional Corridors Upgrade Program,,1,regional corridors upgrade program newcastle to dubbo phase 2 d f
+budget_paper,BUD-E657093806,Monaro Highway Upgrade Program,Transport for NSW,Williamsdale - Cooma,Connecting Regional NSW (Roads and Bridges),,2,monaro highway upgrade program
+budget_paper,BUD-E76DF8E081,New Richmond Bridge and Traffic Improvements (State and Federal Funded),Transport for NSW,North Richmond,Connecting Sydney Roads,,3,new richmond bridge and traffic improvements state and federal funded
+budget_paper,BUD-E966C277DD,Henry Lawson Drive Upgrade Stage 1B,Transport for NSW,Milperra,Urban Roads Fund,,1,henry lawson drive upgrade stage 1b
+budget_paper,BUD-EB9D9B0E5A,"Safe, Accessible Transport Upgrades",Transport for NSW,Various,Other Major Programs,,2,safe accessible transport upgrades
+budget_paper,BUD-EC1C07423F,XPT Fleet Upgrade (Planning),Transport Asset Manager/Holding Entity NSW,Various,,,2,xpt fleet upgrade planning
+budget_paper,BUD-F08503D135,Tangara Fleet Life Extension,Transport Asset Manager/Holding Entity NSW,Various,,,3,tangara fleet life extension
+budget_paper,BUD-F1488DCD1A,RegStar Program (Planning and Development),Transport for NSW,Various,Other Major Programs,,1,regstar program planning and development
+budget_paper,BUD-F3BA4F7F01,Rural and Regional Ticketing Solution,Transport for NSW,Various,Other Major Programs,,2,rural and regional ticketing solution
+budget_paper,BUD-F3D5853ABB,M7-M12 Integration(d)(e),Transport for NSW,Various,Sydney Motorways,,1,m7 m12 integration d e
+budget_paper,BUD-F5F966FB94,Bus Priority Infrastructure,Transport for NSW,Various,Easing Sydney's Congestion,,3,bus priority infrastructure
+budget_paper,BUD-F7801A4F2A,Sydney Gateway,Transport for NSW,Mascot,Sydney Motorways,,1,sydney gateway
+budget_paper,BUD-F88C70FC79,Transport Connected Bus Program,Transport for NSW,Various,Other Major Programs,,1,transport connected bus program
+budget_paper,BUD-F9D5A88353,Heavy Vehicle Rest Stops Improvement Program,Transport for NSW,Various,Other Major Programs,,3,heavy vehicle rest stops improvement program
+budget_paper,BUD-F9E440143C,"Newell Highway, New Dubbo Bridge (State and Federal Funded)",Transport for NSW,Dubbo,Newell Corridor,,3,newell highway new dubbo bridge state and federal funded
+budget_paper,BUD-F9FD0AB531,Golden Highway Dubbo to Newcastle Improvement Program (Planning) (State and Federal Funded),Transport for NSW,Various,Connecting Regional NSW (Roads and Bridges),,2,golden highway dubbo to newcastle improvement program planning state and federal funded
+budget_paper,BUD-FAE850347A,Henry Lawson Drive Upgrade Stage 1B (State and Federal Funded)(c),Transport for NSW,Milperra,Urban Roads Fund,,2,henry lawson drive upgrade stage 1b state and federal funded c
+budget_paper,BUD-FB1DC2209F,Fifteenth Avenue Upgrade (State and Federal Funded)(c),Transport for NSW,Various,Urban Roads Fund,,2,fifteenth avenue upgrade state and federal funded c
+budget_paper,BUD-FB8997A946,Rouse Hill Hospital Transport Integration (Planning),Transport for NSW,Rouse Hill,Other Major Programs,,1,rouse hill hospital transport integration planning
+budget_paper,BUD-FC96C8B06D,New England Highway Corridor - Priority Intersection Upgrades (State and Federal Funded),Transport for NSW,Various,New England Corridor,,1,new england highway corridor priority intersection upgrades state and federal funded
+budget_paper,BUD-FCAAF33041,Mulgoa Road Stage 2 - Glenmore Parkway to Jeanette Street (State and Federal Funded),Transport for NSW,Regentville,Connecting Sydney Roads,,3,mulgoa road stage 2 glenmore parkway to jeanette street state and federal funded
+budget_paper,BUD-FE4152BC35,Hume Highway Heavy Duty Pavement Upgrade,Transport for NSW,Marulan,Hume Corridor,,3,hume highway heavy duty pavement upgrade
+budget_paper,BUD-FE972089E9,Pinch Points (State and Federal Funded),Transport for NSW,Various,Easing Sydney's Congestion,,2,pinch points state and federal funded
