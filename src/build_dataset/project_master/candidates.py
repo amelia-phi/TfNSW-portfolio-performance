@@ -7,10 +7,12 @@ import pandas as pd
 
 from .config import MINIMUM_CANDIDATE_SCORE
 
+
 def token_sort_text(value: str) -> str:
     """Sort words so that word order has less effect on matching."""
 
-    return " ".join(sorted(value.split()))''
+    return " ".join(sorted(value.split()))
+
 
 def calculate_similarity(
     left_name: str,
