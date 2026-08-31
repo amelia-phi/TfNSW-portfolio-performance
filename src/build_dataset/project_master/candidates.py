@@ -9,6 +9,7 @@ from .config import MINIMUM_CANDIDATE_SCORE
 
 CANDIDATE_COLUMNS = [
     "candidate_id",
+    "candidate_key",
     "left_source_dataset",
     "left_source_project_id",
     "left_project_name",
@@ -78,7 +79,33 @@ def validate_candidate_input(
         raise ValueError(
             "No source projects were supplied."
         )
-    
+
+def build_source_record_key(
+    record: dict,
+) -> str:
+    """Create a stable identity for one source record."""
+
+    return (
+        f"{record['source_dataset']}"
+        f"::{record['source_project_id']}"
+    )
+
+
+def build_candidate_key(
+    left: dict,
+    right: dict,
+) -> str:
+    """Create a stable identity for a candidate pair."""
+
+    record_keys = sorted(
+        [
+            build_source_record_key(left),
+            build_source_record_key(right),
+        ]
+    )
+
+    return "||".join(record_keys)
+
 def generate_match_candidates(
     data: pd.DataFrame,
 ) -> pd.DataFrame:
@@ -121,6 +148,10 @@ def generate_match_candidates(
 
         candidate_rows.append(
             {
+                "candidate_key": build_candidate_key(
+                    left,
+                    right,
+                ),
                 "left_source_dataset": (
                     left["source_dataset"]
                 ),
@@ -143,6 +174,7 @@ def generate_match_candidates(
                 "similarity_score": similarity_score,
                 "review_required": review_required,
             }
+            
         )
 
     candidates = pd.DataFrame(candidate_rows)
