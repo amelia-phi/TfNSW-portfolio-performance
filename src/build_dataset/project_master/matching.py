@@ -206,4 +206,58 @@ def select_accepted_matches(
 
     return accepted_matches
 
+# add source record keys
+def add_source_record_keys(
+    source_records: pd.DataFrame,
+) -> pd.DataFrame:
+    """Add a unique cross-source key to every source project."""
+
+    required_columns = {
+        "source_dataset",
+        "source_project_id",
+    }
+
+    missing_columns = required_columns.difference(
+        source_records.columns
+    )
+
+    if missing_columns:
+        raise ValueError(
+            "Missing source-record columns: "
+            + ", ".join(sorted(missing_columns))
+        )
+
+    result = source_records.copy()
+
+    result["source_record_key"] = (
+        result["source_dataset"]
+        .astype("string")
+        .str.strip()
+        + "::"
+        + result["source_project_id"]
+        .astype("string")
+        .str.strip()
+    )
+
+    blank_keys = (
+        result["source_record_key"]
+        .isna()
+        | result["source_record_key"].eq("")
+    )
+
+    if blank_keys.any():
+        raise ValueError(
+            "One or more source-record keys are blank."
+        )
+
+    duplicate_keys = result[
+        "source_record_key"
+    ].duplicated(keep=False)
+
+    if duplicate_keys.any():
+        raise ValueError(
+            "Duplicate source-record keys were found."
+        )
+
+    return result
 
