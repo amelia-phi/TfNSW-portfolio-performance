@@ -42,6 +42,39 @@ SOURCE_DATASETS = {
     },
 }
 
+SOURCE_DATASETS = {
+    "project_register": {
+        "file_path": REGISTER_FILE,
+        "id_column": "project_id",
+        "name_column": "project_name",
+        "agency_column": None,
+        "location_column": None,
+        "group_column": "pipeline_category",
+        "url_column": "project_url",
+        "year_column": None,
+    },
+    "project_timeline": {
+        "file_path": TIMELINE_FILE,
+        "id_column": "tfnsw_project_id",
+        "name_column": "project_name",
+        "agency_column": None,
+        "location_column": None,
+        "group_column": "project_group",
+        "url_column": None,
+        "year_column": None,
+    },
+    "budget_paper": {
+        "file_path": BUDGET_FILE,
+        "id_column": "project_id",
+        "name_column": "project_name",
+        "agency_column": "agency_group",
+        "location_column": "location",
+        "group_column": "program_group",
+        "url_column": None,
+        "year_column": "budget_year",
+    },
+}
+
 """master name preference - if a project appears in multiple sources, 
 prefer the name from the project_register, then project_timeline, then budget plan"""
 MASTER_NAME_PRIORITY = [
