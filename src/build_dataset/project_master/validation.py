@@ -56,22 +56,9 @@ def validate_master_outputs(
             "The source map refers to unknown master projects."
         )
 
-    source_counts = source_map.groupby(
-        [
-            "master_project_id",
-            "source_dataset",
-        ]
-    ).size()
-    same_source_conflicts = source_counts[
-        source_counts > 1
-    ]
-
-    if not same_source_conflicts.empty:
-        raise ValueError(
-            "A master project contains multiple identities "
-            "from the same source:\n"
-            + same_source_conflicts.to_string()
-        )
+    # Multiple historical IDs from one publication can map to the
+    # same master project when its published name changes over time.
+    # Each individual source_record_key must still remain unique.
 
     expected_group_count = grouped_records[
         "match_group_id"
