@@ -65,7 +65,7 @@ MASTER-0063,Nelson Bay Road - Williamtown to Bobs Farm (State and Federal Funded
 MASTER-0064,Speers Point Intersection(d),budget_paper,BUD-517B618087,GROUP-0064,1,1,budget_paper,False
 MASTER-0065,South West Sydney Roads (Planning) (State and Federal Funded),budget_paper,BUD-51F7A09AF8,GROUP-0065,1,1,budget_paper,False
 MASTER-0066,Picton Road Upgrade (Planning) (State and Federal Funded),budget_paper,BUD-5385E893C1,GROUP-0066,1,1,budget_paper,False
-MASTER-0067,North Sydney Active Transport,project_timeline,TFNSW-0113,GROUP-0067,2,2,budget_paper; project_timeline,True
+MASTER-0067,Active Transport,budget_paper,BUD-55D1E30739,GROUP-0067,1,1,budget_paper,False
 MASTER-0068,"Pacific Highway, Harrington Road / Coopernook Road interchange",project_register,PRJ-0068,GROUP-0068,3,3,budget_paper; project_register; project_timeline,True
 MASTER-0069,"Hillsborough Road, Warners Bay to Charlestown (Stage 1)(e)",budget_paper,BUD-5B36F2211F,GROUP-0069,1,1,budget_paper,False
 MASTER-0070,"Central Coast Highway, Tumbi Road Intersection Upgrade (State and Federal Funded)",budget_paper,BUD-5D4D5C4FC7,GROUP-0070,1,1,budget_paper,False
@@ -129,7 +129,7 @@ MASTER-0127,"Pacific Motorway, Hexham Straight (State and Federal Funded)",budge
 MASTER-0128,Future Fleet Program,project_register,PRJ-0029,GROUP-0128,3,3,budget_paper; project_register; project_timeline,True
 MASTER-0129,Zero Emissions Buses Program,budget_paper,BUD-A79D6516E0,GROUP-0129,1,1,budget_paper,False
 MASTER-0130,Appin Road Upgrades (State and Federal Funded),budget_paper,BUD-A86A72F93F,GROUP-0130,1,1,budget_paper,False
-MASTER-0131,Flushcombe Rd / Bungarribee Rd Intersection Upgrade and Francis Street Upgrade,project_timeline,TFNSW-0106,GROUP-0131,2,2,budget_paper; project_timeline,True
+MASTER-0131,Flushcombe Road & Bungarribee Road Intersection Upgrade (Planning),budget_paper,BUD-AB5BF73325,GROUP-0131,1,1,budget_paper,False
 MASTER-0132,Newell Highway Flood Mitigation Works (Planning) (State and Federal Funded),budget_paper,BUD-ACB04930C1,GROUP-0132,1,1,budget_paper,False
 MASTER-0133,Wallendbeen Bridge Approaches,budget_paper,BUD-AF0B297F2F,GROUP-0133,1,1,budget_paper,False
 MASTER-0134,Newell Highway - North Moree Heavy Duty Pavement (State and Federal Funded),budget_paper,BUD-B2B1F1B833,GROUP-0134,1,1,budget_paper,False
@@ -274,18 +274,20 @@ MASTER-0272,New Electric Bus Program Tranche 1,project_timeline,TFNSW-0048,GROUP
 MASTER-0273,Appin Road and St Johns Road Intersection Upgrade,project_timeline,TFNSW-0073,GROUP-0273,1,1,project_timeline,False
 MASTER-0274,"The Horsley Dr/Polding St, Fairfield",project_timeline,TFNSW-0094,GROUP-0274,1,1,project_timeline,False
 MASTER-0275,Dobroyd Parade Pedestrian Bridge,project_timeline,TFNSW-0105,GROUP-0275,1,1,project_timeline,False
-MASTER-0276,Greater Sydney Cycling and Micromobility Investment Program,project_timeline,TFNSW-0108,GROUP-0276,1,1,project_timeline,False
-MASTER-0277,Hurstville Pedestrian Bridge,project_timeline,TFNSW-0109,GROUP-0277,1,1,project_timeline,False
-MASTER-0278,Kosciuszko Rd and Alpine Way (Intersection Upgrade),project_timeline,TFNSW-0110,GROUP-0278,1,1,project_timeline,False
-MASTER-0279,M4 Improvement Works - Coleman to Church,project_timeline,TFNSW-0111,GROUP-0279,1,1,project_timeline,False
-MASTER-0280,"McEvoy Street and Botany Road, Waterloo Intersection Improvements",project_timeline,TFNSW-0112,GROUP-0280,1,1,project_timeline,False
-MASTER-0281,Parramatta to Sydney Foreshore link,project_timeline,TFNSW-0114,GROUP-0281,1,1,project_timeline,False
-MASTER-0282,Princes Hwy/Waratah St Intrs-Kirrawee,project_timeline,TFNSW-0115,GROUP-0282,1,1,project_timeline,False
-MASTER-0283,Safety Barrier Program,project_timeline,TFNSW-0116,GROUP-0283,1,1,project_timeline,False
-MASTER-0284,Shellharbour Hospital Shared User Path,project_timeline,TFNSW-0117,GROUP-0284,1,1,project_timeline,False
-MASTER-0285,Strategic Cycleway Corridors,project_timeline,TFNSW-0118,GROUP-0285,1,1,project_timeline,False
-MASTER-0286,Sutherland to Cronulla Active Transport Link (Stage 2B West),project_timeline,TFNSW-0119,GROUP-0286,1,1,project_timeline,False
-MASTER-0287,Sutherland to Cronulla Active Transport Link (Stage 3),project_timeline,TFNSW-0120,GROUP-0287,1,1,project_timeline,False
-MASTER-0288,Sydney Park Junction,project_timeline,TFNSW-0121,GROUP-0288,1,1,project_timeline,False
-MASTER-0289,Thurgoona Drive Intersection Upgrade,project_timeline,TFNSW-0122,GROUP-0289,1,1,project_timeline,False
-MASTER-0290,"WSRB, Package 4; Bradfield Layover",project_timeline,TFNSW-0123,GROUP-0290,1,1,project_timeline,False
+MASTER-0276,Flushcombe Rd / Bungarribee Rd Intersection Upgrade and Francis Street Upgrade,project_timeline,TFNSW-0106,GROUP-0276,1,1,project_timeline,False
+MASTER-0277,Greater Sydney Cycling and Micromobility Investment Program,project_timeline,TFNSW-0108,GROUP-0277,1,1,project_timeline,False
+MASTER-0278,Hurstville Pedestrian Bridge,project_timeline,TFNSW-0109,GROUP-0278,1,1,project_timeline,False
+MASTER-0279,Kosciuszko Rd and Alpine Way (Intersection Upgrade),project_timeline,TFNSW-0110,GROUP-0279,1,1,project_timeline,False
+MASTER-0280,M4 Improvement Works - Coleman to Church,project_timeline,TFNSW-0111,GROUP-0280,1,1,project_timeline,False
+MASTER-0281,"McEvoy Street and Botany Road, Waterloo Intersection Improvements",project_timeline,TFNSW-0112,GROUP-0281,1,1,project_timeline,False
+MASTER-0282,North Sydney Active Transport,project_timeline,TFNSW-0113,GROUP-0282,1,1,project_timeline,False
+MASTER-0283,Parramatta to Sydney Foreshore link,project_timeline,TFNSW-0114,GROUP-0283,1,1,project_timeline,False
+MASTER-0284,Princes Hwy/Waratah St Intrs-Kirrawee,project_timeline,TFNSW-0115,GROUP-0284,1,1,project_timeline,False
+MASTER-0285,Safety Barrier Program,project_timeline,TFNSW-0116,GROUP-0285,1,1,project_timeline,False
+MASTER-0286,Shellharbour Hospital Shared User Path,project_timeline,TFNSW-0117,GROUP-0286,1,1,project_timeline,False
+MASTER-0287,Strategic Cycleway Corridors,project_timeline,TFNSW-0118,GROUP-0287,1,1,project_timeline,False
+MASTER-0288,Sutherland to Cronulla Active Transport Link (Stage 2B West),project_timeline,TFNSW-0119,GROUP-0288,1,1,project_timeline,False
+MASTER-0289,Sutherland to Cronulla Active Transport Link (Stage 3),project_timeline,TFNSW-0120,GROUP-0289,1,1,project_timeline,False
+MASTER-0290,Sydney Park Junction,project_timeline,TFNSW-0121,GROUP-0290,1,1,project_timeline,False
+MASTER-0291,Thurgoona Drive Intersection Upgrade,project_timeline,TFNSW-0122,GROUP-0291,1,1,project_timeline,False
+MASTER-0292,"WSRB, Package 4; Bradfield Layover",project_timeline,TFNSW-0123,GROUP-0292,1,1,project_timeline,False
